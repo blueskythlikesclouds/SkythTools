@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <appearRange description="" type="float" />
+  <phase description="" type="float" />
+  <speed description="" type="float" />
+  <respawnTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

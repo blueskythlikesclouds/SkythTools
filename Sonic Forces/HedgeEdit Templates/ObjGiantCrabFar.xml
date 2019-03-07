@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <speedRatio description="" type="float" />
+  <scale description="" type="float" />
+  <defaultVisible description="" type="bool" />
+  <isSoundON description="" type="bool" />
+  <motionDatas_isNext_0 description="" type="bool" />
+  <motionDatas_motionType_0 description="" type="enum">
+    <Enum description="TYPE_IDLE" value="0" />
+    <Enum description="TYPE_WALK" value="1" />
+    <Enum description="TYPE_WALK_STAGE_START" value="2" />
+    <Enum description="TYPE_RAGE" value="3" />
+    <Enum description="TYPE_JUMP" value="4" />
+  </motionDatas_motionType_0>
+  <motionDatas_motionChangeType_0 description="" type="enum">
+    <Enum description="CHANGE_TYPE_EVENT" value="0" />
+    <Enum description="CHANGE_TYPE_TIME" value="1" />
+  </motionDatas_motionChangeType_0>
+  <motionDatas_changeWaitTime_0 description="" type="float" />
+  <motionDatas_isNext_1 description="" type="bool" />
+  <motionDatas_motionType_1 description="" type="enum">
+    <Enum description="TYPE_IDLE" value="0" />
+    <Enum description="TYPE_WALK" value="1" />
+    <Enum description="TYPE_WALK_STAGE_START" value="2" />
+    <Enum description="TYPE_RAGE" value="3" />
+    <Enum description="TYPE_JUMP" value="4" />
+  </motionDatas_motionType_1>
+  <motionDatas_motionChangeType_1 description="" type="enum">
+    <Enum description="CHANGE_TYPE_EVENT" value="0" />
+    <Enum description="CHANGE_TYPE_TIME" value="1" />
+  </motionDatas_motionChangeType_1>
+  <motionDatas_changeWaitTime_1 description="" type="float" />
+  <motionDatas_isNext_2 description="" type="bool" />
+  <motionDatas_motionType_2 description="" type="enum">
+    <Enum description="TYPE_IDLE" value="0" />
+    <Enum description="TYPE_WALK" value="1" />
+    <Enum description="TYPE_WALK_STAGE_START" value="2" />
+    <Enum description="TYPE_RAGE" value="3" />
+    <Enum description="TYPE_JUMP" value="4" />
+  </motionDatas_motionType_2>
+  <motionDatas_motionChangeType_2 description="" type="enum">
+    <Enum description="CHANGE_TYPE_EVENT" value="0" />
+    <Enum description="CHANGE_TYPE_TIME" value="1" />
+  </motionDatas_motionChangeType_2>
+  <motionDatas_changeWaitTime_2 description="" type="float" />
+  <targets description="" type="forcesObjectList" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <serachDistance description="" type="float" />
+  <moveType description="" type="enum">
+    <Enum description="MOVE_NONE" value="0" />
+    <Enum description="MOVE_FORWARD" value="1" />
+    <Enum description="MOVE_BACK" value="2" />
+  </moveType>
+  <moveDistance description="" type="float" />
+  <moveSpeed description="" type="float" />
+  <isRespawn description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <isFV description="" type="bool" />
+  <bulletSpeed description="" type="float" />
+  <bulletMaxFlyingDistance description="" type="float" />
+  <bulletContinuousShellingNum description="" type="uint32" />
+  <bulletShellingInterval description="" type="float" />
+  <bulletCoolDownTime description="" type="float" />
+  <bulletFiringAngle description="" type="float" />
+  <Extra length="44" name="RawByteLength" />
+</Template>

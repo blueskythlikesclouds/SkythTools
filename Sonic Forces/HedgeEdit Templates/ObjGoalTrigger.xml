@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <ShapeType description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+    <Enum description="SHAPE_CAPSULE" value="3" />
+  </ShapeType>
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+    <Enum description="BASE_X_PLANE" value="2" />
+    <Enum description="BASE_Y_PLANE" value="3" />
+  </basePoint>
+  <CollisionFilter description="" type="enum">
+    <Enum description="FILTER_DEFAULT" value="0" />
+    <Enum description="FILTER_HITENEMY" value="1" />
+    <Enum description="FILTER_ALL" value="2" />
+  </CollisionFilter>
+  <CollisionWidth description="" type="float" />
+  <CollisionHeight description="" type="float" />
+  <CollisionDepth description="" type="float" />
+  <goalTime description="" type="float" />
+  <actionType description="" type="enum">
+    <Enum description="GOALACTIONTYPE_STOP" value="0" />
+    <Enum description="GOALACTIONTYPE_BRAKE" value="1" />
+    <Enum description="GOALACTIONTYPE_DASH" value="2" />
+  </actionType>
+  <pathId description="" type="uint32" />
+  <plateModelType description="" type="enum">
+    <Enum description="PLATEMODEL_01" value="0" />
+    <Enum description="PLATEMODEL_02" value="1" />
+    <Enum description="NUM_PLATEMODEL" value="2" />
+  </plateModelType>
+  <plateActionType description="" type="enum">
+    <Enum description="PLATEACTION_IDLE" value="0" />
+    <Enum description="PLATEACTION_PATH" value="1" />
+  </plateActionType>
+  <plateSpeedType description="" type="enum">
+    <Enum description="PLATESPEED_OWN" value="0" />
+    <Enum description="PLATESPEED_PLAYER" value="1" />
+  </plateSpeedType>
+  <plateAngle description="" type="float" />
+  <plateOffsetTrans description="" type="vector3" />
+  <plateOffsetRot description="" type="vector3" />
+  <platePathId description="" type="uint32" />
+  <plateMoveSpeed description="" type="float" />
+  <plateMoveDistance description="" type="float" />
+  <plateScale description="" type="float" />
+  <textureResolutionScale description="" type="uint32" />
+  <Extra length="112" name="RawByteLength" />
+</Template>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <eventDriven description="" type="bool" />
+  <isClockWise description="" type="bool" />
+  <moveTime description="" type="float" />
+  <velocity description="" type="float" />
+  <outOfControl description="" type="float" />
+  <keepVelocityDistance description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

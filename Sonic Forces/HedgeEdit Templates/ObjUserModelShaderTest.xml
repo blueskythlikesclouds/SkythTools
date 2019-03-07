@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <texturePack description="" type="string" />
+  <texture description="" type="string" />
+  <vertexShaderName description="" type="string" />
+  <pixelShaderName description="" type="string" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

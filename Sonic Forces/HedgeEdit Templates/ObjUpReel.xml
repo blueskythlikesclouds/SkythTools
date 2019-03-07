@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <length description="" type="float" />
+  <upSpeedMax description="" type="float" />
+  <firstSpeed description="" type="float" />
+  <outOfControl description="" type="float" />
+  <isOneTimeUp description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <Event0_target description="" type="forcesObjectList" />
+  <Event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event0_eventType>
+  <Event0_timer description="" type="float" />
+  <Event1_target description="" type="forcesObjectList" />
+  <Event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event1_eventType>
+  <Event1_timer description="" type="float" />
+  <Event2_target description="" type="forcesObjectList" />
+  <Event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event2_eventType>
+  <Event2_timer description="" type="float" />
+  <Extra length="120" name="RawByteLength" />
+</Template>

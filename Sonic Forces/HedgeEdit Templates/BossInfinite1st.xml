@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <airPathID description="" type="uint32" />
+  <enableLayerNo description="" type="uint32" />
+  <disableLayerNo_areaNo_0 description="" type="uint32" />
+  <disableLayerNo_areaNo_1 description="" type="uint32" />
+  <attackPattern_hp_0 description="" type="sint32" />
+  <attackPattern_attackType_0_0 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_0_0>
+  <attackPattern_attackType_0_1 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_0_1>
+  <attackPattern_attackType_0_2 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_0_2>
+  <attackPattern_attackType_0_3 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_0_3>
+  <attackPattern_attackType_0_4 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_0_4>
+  <attackPattern_hp_1 description="" type="sint32" />
+  <attackPattern_attackType_1_0 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_1_0>
+  <attackPattern_attackType_1_1 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_1_1>
+  <attackPattern_attackType_1_2 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_1_2>
+  <attackPattern_attackType_1_3 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_1_3>
+  <attackPattern_attackType_1_4 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_1_4>
+  <attackPattern_hp_2 description="" type="sint32" />
+  <attackPattern_attackType_2_0 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_2_0>
+  <attackPattern_attackType_2_1 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_2_1>
+  <attackPattern_attackType_2_2 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_2_2>
+  <attackPattern_attackType_2_3 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_2_3>
+  <attackPattern_attackType_2_4 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_2_4>
+  <attackPattern_hp_3 description="" type="sint32" />
+  <attackPattern_attackType_3_0 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_3_0>
+  <attackPattern_attackType_3_1 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_3_1>
+  <attackPattern_attackType_3_2 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_3_2>
+  <attackPattern_attackType_3_3 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_3_3>
+  <attackPattern_attackType_3_4 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_3_4>
+  <attackPattern_hp_4 description="" type="sint32" />
+  <attackPattern_attackType_4_0 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_4_0>
+  <attackPattern_attackType_4_1 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_4_1>
+  <attackPattern_attackType_4_2 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_4_2>
+  <attackPattern_attackType_4_3 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_4_3>
+  <attackPattern_attackType_4_4 description="" type="enum">
+    <Enum description="TYPE_NONE" value="0" />
+    <Enum description="TYPE_PIPE" value="1" />
+    <Enum description="TYPE_TWIST" value="2" />
+    <Enum description="TYPE_RECTANGLE" value="3" />
+    <Enum description="TYPE_CLOSE" value="4" />
+  </attackPattern_attackType_4_4>
+  <gFieldObject description="" type="forcesObjectReference" />
+  <snakeRoadObject description="" type="forcesObjectReference" />
+  <copyEnableObjects description="" type="forcesObjectList" />
+  <copyDisableObjects description="" type="forcesObjectList" />
+  <Extra length="136" name="RawByteLength" />
+</Template>

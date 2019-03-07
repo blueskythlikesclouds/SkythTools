@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <interval description="" type="float" />
+  <eggpawnSpawner_shotType description="" type="enum">
+    <Enum description="SHOT_BOTH_HANDS" value="0" />
+    <Enum description="SHOT_ONE_HAND" value="1" />
+  </eggpawnSpawner_shotType>
+  <eggpawnSpawner_approachLimit description="" type="float" />
+  <eggpawnSpawner_serachDistance description="" type="float" />
+  <eggpawnSpawner_serachAngle description="" type="float" />
+  <eggpawnSpawner_moveDistance description="" type="float" />
+  <eggpawnSpawner_shotCoolDown description="" type="bool" />
+  <eggpawnSpawner_attackConst description="" type="bool" />
+  <eggpawnSpawner_attackConstAngle description="" type="float" />
+  <eggpawnSpawner_isFV description="" type="bool" />
+  <eggpawnSpawner_eventDriven description="" type="bool" />
+  <eggpawnSpawner_isGravity description="" type="bool" />
+  <eggpawnSpawner_isFallStart description="" type="bool" />
+  <eggpawnSpawner_isTreadGrass description="" type="bool" />
+  <eggpawnSpawner_updateMaterial description="" type="bool" />
+  <eggpawnSpawner_isStatic description="" type="bool" />
+  <eggpawnSpawner_behaviorType description="" type="enum">
+    <Enum description="TYPE_NORMAL" value="0" />
+    <Enum description="TYPE_INFINITE" value="1" />
+    <Enum description="TYPE_INFINITE_VIOLET" value="2" />
+  </eggpawnSpawner_behaviorType>
+  <eggpawnSpawner_toSVPathDistance description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

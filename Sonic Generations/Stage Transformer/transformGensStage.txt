@@ -1,0 +1,29 @@
+# Edit values below comments to transform stage
+
+# Position X
+0
+
+# Position Y
+0
+
+# Position Z
+0
+
+# Scale X
+1
+
+# Scale Y
+1
+
+# Scale Z
+1
+
+# Rotations in degrees
+# Rotation X 
+0
+
+# Rotation Y
+0
+
+# Rotation Z
+0

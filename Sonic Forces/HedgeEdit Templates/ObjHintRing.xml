@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sheetID description="" type="string" />
+  <cellID description="" type="string" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

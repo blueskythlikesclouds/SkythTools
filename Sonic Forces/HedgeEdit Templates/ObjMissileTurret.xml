@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <speed description="" type="float" />
+  <length description="" type="float" />
+  <phase description="" type="float" />
+  <pathID description="" type="uint32" />
+  <missileType description="" type="enum">
+    <Enum description="TYPE_STRAIGHT" value="0" />
+    <Enum description="TYPE_PATH" value="1" />
+  </missileType>
+  <eventDriven description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

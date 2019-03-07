@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector2" />
+  <warpPoint description="" type="forcesObjectReference" />
+  <status description="" type="enum">
+    <Enum description="RESET" value="0" />
+    <Enum description="CONTINUANCE" value="1" />
+  </status>
+  <Extra length="16" name="RawByteLength" />
+</Template>

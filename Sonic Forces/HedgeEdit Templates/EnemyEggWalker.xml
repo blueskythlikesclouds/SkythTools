@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <moveSpeed description="" type="float" />
+  <maxDistance description="" type="float" />
+  <locaterList description="" type="forcesObjectList" />
+  <jumpSpeed description="" type="float" />
+  <jumpHeight description="" type="float" />
+  <jumpType description="" type="enum">
+    <Enum description="JUMP_QUICK" value="0" />
+    <Enum description="JUMP_SLOW" value="1" />
+    <Enum description="JUMP_AUTO" value="2" />
+  </jumpType>
+  <endPosObj description="" type="forcesObjectReference" />
+  <range description="" type="float" />
+  <missileRizeLength description="" type="float" />
+  <launchMissileNum description="" type="uint32" />
+  <fallOffsetHeight description="" type="float" />
+  <pathOffsetPosition description="" type="vector3" />
+  <isFV description="" type="bool" />
+  <isFallStart description="" type="bool" />
+  <isTreadGrass description="" type="bool" />
+  <isEndTrun description="" type="bool" />
+  <updateMaterial description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <Extra length="112" name="RawByteLength" />
+</Template>

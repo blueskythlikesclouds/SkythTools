@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <rotationalSpeed description="" type="float" />
+  <phase description="" type="float" />
+  <rotationType description="" type="enum">
+    <Enum description="CLOCK_ROTATION" value="0" />
+    <Enum description="COUNTERCLOCKWISE_ROTATION" value="1" />
+  </rotationType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <eventDriven description="" type="bool" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

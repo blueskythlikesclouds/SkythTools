@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <upDirType description="" type="enum">
+    <Enum description="UPDIR_Y_UP" value="0" />
+    <Enum description="UPDIR_OBJ_TRANSFORM" value="1" />
+  </upDirType>
+  <eyePathID description="" type="uint32" />
+  <eyePathOffset description="" type="float" />
+  <atPathID description="" type="uint32" />
+  <atPathOffset description="" type="float" />
+  <type description="" type="enum">
+    <Enum description="TIME_DRIVEN" value="0" />
+    <Enum description="PLAYER_POSITION_DRIVEN" value="1" />
+    <Enum description="EYE_PATH_NEAREST_BASE" value="2" />
+    <Enum description="AT_PATH_NEAREST_BASE" value="3" />
+  </type>
+  <motionLength description="" type="float" />
+  <reversePathAdvance description="" type="bool" />
+  <correctTargetPoint description="" type="bool" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

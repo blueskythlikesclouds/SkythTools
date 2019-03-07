@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <radius description="" type="float" />
+  <maxNum description="" type="uint32" />
+  <minNum description="" type="uint32" />
+  <respawnTime description="" type="float" />
+  <acceleration description="" type="float" />
+  <deceleration description="" type="float" />
+  <minSpeed description="" type="float" />
+  <offset description="" type="float" />
+  <pathOffset description="" type="float" />
+  <allOffset description="" type="float" />
+  <deadDistance description="" type="float" />
+  <brakeDistance description="" type="float" />
+  <stopTime description="" type="float" />
+  <fallTime description="" type="float" />
+  <isRedRing description="" type="bool" />
+  <ringId description="" type="uint32" />
+  <ringSpeed description="" type="float" />
+  <Event0_target description="" type="forcesObjectList" />
+  <Event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event0_eventType>
+  <Event0_timer description="" type="float" />
+  <Event1_target description="" type="forcesObjectList" />
+  <Event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event1_eventType>
+  <Event1_timer description="" type="float" />
+  <Event2_target description="" type="forcesObjectList" />
+  <Event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event2_eventType>
+  <Event2_timer description="" type="float" />
+  <Extra length="168" name="RawByteLength" />
+</Template>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <startTimeLag description="" type="float" />
+  <distance description="" type="float" />
+  <speed description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

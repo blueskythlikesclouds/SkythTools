@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <layer description="" type="enum">
+    <Enum description="NONE_GROUP" value="0" />
+    <Enum description="LAND" value="1" />
+    <Enum description="RAYBLOCK" value="2" />
+    <Enum description="THROUGH" value="3" />
+    <Enum description="LAND_THROUGH" value="4" />
+  </layer>
+  <childLoopLeft description="" type="bool" />
+  <childLoopRight description="" type="bool" />
+  <childSolid description="" type="bool" />
+  <childLiquid description="" type="bool" />
+  <childThrough description="" type="bool" />
+  <childOneway description="" type="bool" />
+  <useCache description="" type="bool" />
+  <searchSize description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

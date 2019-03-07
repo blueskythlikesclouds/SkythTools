@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <Width description="" type="float" />
+  <Height description="" type="float" />
+  <StageType description="" type="enum">
+    <Enum description="FORWARDVIEW" value="0" />
+    <Enum description="SIDEVIEW" value="1" />
+    <Enum description="SIDEVIEW_REV" value="2" />
+  </StageType>
+  <Extra length="12" name="RawByteLength" />
+</Template>

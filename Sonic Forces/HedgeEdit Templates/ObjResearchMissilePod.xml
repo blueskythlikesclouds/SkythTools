@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <delay description="" type="float" />
+  <phase description="" type="float" />
+  <attackDistance description="" type="float" />
+  <shotAngleMin description="" type="float" />
+  <shotAngleMax description="" type="float" />
+  <shotSpeed description="" type="float" />
+  <shotTime description="" type="float" />
+  <missileSpeed description="" type="float" />
+  <missileAccelTime description="" type="float" />
+  <missileHomingWait description="" type="float" />
+  <missileHomingRotation description="" type="sint32" />
+  <isEventDriven description="" type="bool" />
+  <Extra length="52" name="RawByteLength" />
+</Template>

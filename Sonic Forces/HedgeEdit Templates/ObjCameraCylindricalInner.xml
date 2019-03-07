@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <gravityPathID description="" type="sint32" />
+  <distance description="" type="float" />
+  <azimuthOffsetDeg description="" type="float" />
+  <elevationOffsetDeg description="" type="float" />
+  <gravityOffset description="" type="float" />
+  <fixBorderAngleDeg description="" type="float" />
+  <rollSensitivity description="" type="float" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

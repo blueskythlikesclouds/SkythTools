@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <modelName description="" type="string" />
+  <animTexSrtName description="" type="string" />
+  <animTexPatName description="" type="string" />
+  <animMaterialName description="" type="string" />
+  <animVisName description="" type="string" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

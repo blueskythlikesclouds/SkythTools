@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <motionType description="" type="enum">
+    <Enum description="TYPE_A" value="0" />
+    <Enum description="TYPE_B" value="1" />
+  </motionType>
+  <scale description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

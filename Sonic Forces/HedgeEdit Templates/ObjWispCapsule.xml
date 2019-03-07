@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <itemType description="" type="enum">
+    <Enum description="GADGET_WHISP" value="0" />
+    <Enum description="WHITE_WHISP" value="1" />
+  </itemType>
+  <resetTime description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <useAsteroid description="" type="bool" />
+  <useLightning description="" type="bool" />
+  <useCube description="" type="bool" />
+  <useDrill description="" type="bool" />
+  <useBurst description="" type="bool" />
+  <useVoid description="" type="bool" />
+  <useHover description="" type="bool" />
+  <targets0 description="" type="forcesObjectList" />
+  <event0 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event0>
+  <timer0 description="" type="float" />
+  <targets1 description="" type="forcesObjectList" />
+  <event1 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event1>
+  <timer1 description="" type="float" />
+  <targets2 description="" type="forcesObjectList" />
+  <event2 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event2>
+  <timer2 description="" type="float" />
+  <Extra length="112" name="RawByteLength" />
+</Template>

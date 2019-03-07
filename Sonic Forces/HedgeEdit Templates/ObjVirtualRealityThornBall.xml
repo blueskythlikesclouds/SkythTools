@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_RIGHT" value="0" />
+    <Enum description="TYPE_LEFT" value="1" />
+  </type>
+  <pathID description="" type="uint32" />
+  <time description="" type="float" />
+  <phase description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

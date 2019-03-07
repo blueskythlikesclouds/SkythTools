@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <Fovy description="" type="float" />
+  <ZRot description="" type="float" />
+  <targetType description="" type="enum">
+    <Enum description="TARGETTYPE_ABS_COORD" value="0" />
+    <Enum description="TARGETTYPE_LOCATOR" value="1" />
+  </targetType>
+  <TargetPosition description="" type="vector3" />
+  <targetID description="" type="forcesObjectReference" />
+  <IsRotateUpDir description="" type="bool" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <radius description="" type="float" />
+  <acceleration description="" type="float" />
+  <deceleration description="" type="float" />
+  <minSpeed description="" type="float" />
+  <deadDistance description="" type="float" />
+  <toExitTime description="" type="float" />
+  <brakeDistance description="" type="float" />
+  <stopTime description="" type="float" />
+  <fallTime description="" type="float" />
+  <diveParam_divePathID_0 description="" type="uint32" />
+  <diveParam_diveSpeed_0 description="" type="float" />
+  <diveParam_phase_0 description="" type="float" />
+  <diveParam_rollStartRatio_0 description="" type="float" />
+  <diveParam_divePathID_1 description="" type="uint32" />
+  <diveParam_diveSpeed_1 description="" type="float" />
+  <diveParam_phase_1 description="" type="float" />
+  <diveParam_rollStartRatio_1 description="" type="float" />
+  <diveParam_divePathID_2 description="" type="uint32" />
+  <diveParam_diveSpeed_2 description="" type="float" />
+  <diveParam_phase_2 description="" type="float" />
+  <diveParam_rollStartRatio_2 description="" type="float" />
+  <diveParam_divePathID_3 description="" type="uint32" />
+  <diveParam_diveSpeed_3 description="" type="float" />
+  <diveParam_phase_3 description="" type="float" />
+  <diveParam_rollStartRatio_3 description="" type="float" />
+  <Extra length="104" name="RawByteLength" />
+</Template>

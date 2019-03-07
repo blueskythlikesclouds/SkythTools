@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_FV_A" value="0" />
+    <Enum description="TYPE_FV_B" value="1" />
+    <Enum description="TYPE_SV" value="2" />
+    <Enum description="TYPE_SLIDER" value="3" />
+    <Enum description="TYPE_SLIDER_SPLASH" value="4" />
+    <Enum description="NUM_TYPES" value="5" />
+  </type>
+  <Extra length="1" name="RawByteLength" />
+</Template>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <searchBoxExtents description="" type="vector3" />
+  <searchBoxOffset description="" type="vector3" />
+  <laserSpeed description="" type="float" />
+  <laserHomingKeepTime description="" type="float" />
+  <laserRotateAngleMax description="" type="float" />
+  <laserNonHomingLength description="" type="float" />
+  <chargeTime description="" type="float" />
+  <laserRange description="" type="float" />
+  <fireInterval description="" type="float" />
+  <attackAfterWaitTime description="" type="float" />
+  <launchLaserNum description="" type="uint32" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

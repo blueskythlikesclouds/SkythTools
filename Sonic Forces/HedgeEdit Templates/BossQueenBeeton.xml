@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <beehive description="" type="forcesObjectReference" />
+  <targets0 description="" type="forcesObjectList" />
+  <event0 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event0>
+  <timer0 description="" type="float" />
+  <targets1 description="" type="forcesObjectList" />
+  <event1 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event1>
+  <timer1 description="" type="float" />
+  <targets2 description="" type="forcesObjectList" />
+  <event2 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event2>
+  <timer2 description="" type="float" />
+  <Extra length="104" name="RawByteLength" />
+</Template>

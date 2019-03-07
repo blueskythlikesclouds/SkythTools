@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <height description="" type="float" />
+  <wide description="" type="float" />
+  <length description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathUID description="" type="uint32" />
+  <Type description="" type="enum">
+    <Enum description="OBJ_PATH" value="0" />
+    <Enum description="SV_PATH" value="1" />
+    <Enum description="GR_PATH" value="2" />
+  </Type>
+  <NodeList description="" type="forcesObjectList" />
+  <IsLoopPath description="" type="bool" />
+  <startLineType description="" type="enum">
+    <Enum description="LINETYPE_SNS" value="0" />
+    <Enum description="LINETYPE_STRAIGHT" value="1" />
+  </startLineType>
+  <divideLength description="" type="float" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

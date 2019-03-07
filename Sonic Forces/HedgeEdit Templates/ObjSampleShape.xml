@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <ShapeType description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </ShapeType>
+  <Width description="" type="float" />
+  <Height description="" type="float" />
+  <Depth description="" type="float" />
+  <Red description="" type="uint8" />
+  <Green description="" type="uint8" />
+  <Blue description="" type="uint8" />
+  <IsEnableModel description="" type="bool" />
+  <IsEnableRigidbody description="" type="bool" />
+  <PhysicsGroup description="" type="enum">
+    <Enum description="GROUP_LAND" value="0" />
+    <Enum description="GROUP_ONEWAY" value="1" />
+  </PhysicsGroup>
+  <PhysicsAttr description="" type="enum">
+    <Enum description="ATTR_NONE" value="0" />
+    <Enum description="ATTR_BREAKABLE" value="1" />
+    <Enum description="ATTR_NOT_STAND" value="2" />
+  </PhysicsAttr>
+  <Extra length="24" name="RawByteLength" />
+</Template>

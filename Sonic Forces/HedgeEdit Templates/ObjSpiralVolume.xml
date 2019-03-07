@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <pathUID description="" type="uint32" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

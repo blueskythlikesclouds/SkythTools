@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <isLoop description="" type="bool" />
+  <moveVector description="" type="vector3" />
+  <speed description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

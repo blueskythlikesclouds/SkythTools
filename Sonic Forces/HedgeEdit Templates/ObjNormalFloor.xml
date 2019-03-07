@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sizeType description="" type="enum">
+    <Enum description="SIZE_SMALL" value="0" />
+    <Enum description="SIZE_MEDIUM" value="1" />
+    <Enum description="SIZE_LARGE" value="2" />
+    <Enum description="NUM_SIZE_TYPE" value="3" />
+  </sizeType>
+  <visualType description="" type="enum">
+    <Enum description="VISUAL_A" value="0" />
+    <Enum description="VISUAL_B" value="1" />
+    <Enum description="NUM_VISUAL_TYPE" value="2" />
+  </visualType>
+  <moveType description="" type="enum">
+    <Enum description="MOVE_NONE" value="0" />
+    <Enum description="MOVE_POINT" value="1" />
+    <Enum description="MOVE_PATH" value="2" />
+  </moveType>
+  <patrolType description="" type="enum">
+    <Enum description="PATROL_RETURN" value="0" />
+    <Enum description="PATROL_LOOP" value="1" />
+    <Enum description="PATROL_ONEWAY" value="2" />
+  </patrolType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <eventDriven description="" type="bool" />
+  <isFv description="" type="bool" />
+  <isOneway description="" type="bool" />
+  <isFall description="" type="bool" />
+  <isBreak description="" type="bool" />
+  <isSyncRot description="" type="bool" />
+  <isSmoothMove description="" type="bool" />
+  <isReverse description="" type="bool" />
+  <isPressDead description="" type="bool" />
+  <moveVector description="" type="vector3" />
+  <pathID description="" type="uint32" />
+  <locaterList description="" type="forcesObjectList" />
+  <waitTime description="" type="float" />
+  <phase description="" type="float" />
+  <speed description="" type="float" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

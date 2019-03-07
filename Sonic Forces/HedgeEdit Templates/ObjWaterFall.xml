@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <foretasteTime description="" type="float" />
+  <bigEffectStartCountTime description="" type="float" />
+  <modelFallBeforeSpeed description="" type="float" />
+  <modelFallAfterSpeed description="" type="float" />
+  <fallingTime description="" type="float" />
+  <waitingTime description="" type="float" />
+  <fallingSpeed description="" type="float" />
+  <phase description="" type="float" />
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <modelType description="" type="enum">
+    <Enum description="MODEL_1" value="0" />
+    <Enum description="MODEL_2" value="1" />
+    <Enum description="MODEL_3" value="2" />
+    <Enum description="MODEL_NUMS" value="3" />
+  </modelType>
+  <eventDriven description="" type="bool" />
+  <userOwnParam description="" type="bool" />
+  <ornament description="" type="bool" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

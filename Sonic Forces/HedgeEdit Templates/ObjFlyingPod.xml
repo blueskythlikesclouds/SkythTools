@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <relativePos description="" type="float" />
+  <pathId description="" type="uint32" />
+  <maxDistanceLeft description="" type="float" />
+  <maxDistanceRight description="" type="float" />
+  <firstShotInterval description="" type="float" />
+  <shotInterval description="" type="float" />
+  <ringOdds description="" type="float" />
+  <isPlayAppearAnim description="" type="bool" />
+  <appearTime description="" type="float" />
+  <throwType description="" type="enum">
+    <Enum description="THROWTYPE_TOPLAYER" value="0" />
+    <Enum description="THROWTYPE_RANDOM" value="1" />
+  </throwType>
+  <escapeTime description="" type="float" />
+  <Extra length="44" name="RawByteLength" />
+</Template>

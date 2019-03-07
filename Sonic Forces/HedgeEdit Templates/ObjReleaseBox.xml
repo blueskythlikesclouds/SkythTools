@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <direction description="" type="enum">
+    <Enum description="DIR_FRONT" value="0" />
+    <Enum description="DIR_LEFT" value="1" />
+    <Enum description="DIR_RIGHT" value="2" />
+  </direction>
+  <id description="" type="sint32" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

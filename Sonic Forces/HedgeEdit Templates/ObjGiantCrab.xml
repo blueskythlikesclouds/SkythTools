@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <goalPathID description="" type="uint32" />
+  <speed description="" type="float" />
+  <stepWidth description="" type="float" />
+  <eventStartPosObj description="" type="forcesObjectReference" />
+  <eventEndPosObj description="" type="forcesObjectReference" />
+  <eventBrokenObject description="" type="forcesObjectReference" />
+  <cameraObj description="" type="forcesObjectReference" />
+  <cameraEaseTime description="" type="float" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

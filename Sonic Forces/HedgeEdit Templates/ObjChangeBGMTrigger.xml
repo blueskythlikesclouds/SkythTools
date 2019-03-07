@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <cueName description="" type="string" />
+  <fadeOutTime description="" type="float" />
+  <playDelayTime description="" type="float" />
+  <fadeInTime description="" type="float" />
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

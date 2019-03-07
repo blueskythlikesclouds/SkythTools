@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <enableLayerNo description="" type="uint32" />
+  <disableLayerNo_areaNo_0 description="" type="uint32" />
+  <disableLayerNo_areaNo_1 description="" type="uint32" />
+  <eggpawnGenerators description="" type="forcesObjectList" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <searchDistance description="" type="float" />
+  <startType description="" type="enum">
+    <Enum description="TYPE_EVENT" value="0" />
+    <Enum description="TYPE_DISTANCE" value="1" />
+  </startType>
+  <upTime description="" type="float" />
+  <downTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

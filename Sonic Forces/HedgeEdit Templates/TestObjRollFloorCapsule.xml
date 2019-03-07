@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <radius description="" type="float" />
+  <omega description="" type="float" />
+  <offset description="" type="float" />
+  <useGlobalTime description="" type="bool" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

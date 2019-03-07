@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <effectName description="" type="string" />
+  <scale description="" type="float" />
+  <colorR description="" type="uint8" />
+  <colorG description="" type="uint8" />
+  <colorB description="" type="uint8" />
+  <colorA description="" type="uint8" />
+  <shapeType description="" type="enum">
+    <Enum description="SHAPE_SPHERE" value="0" />
+    <Enum description="SHAPE_BOX" value="1" />
+  </shapeType>
+  <extents description="" type="vector3" />
+  <emitPointType description="" type="enum">
+    <Enum description="EMIT_VOLUME" value="0" />
+    <Enum description="EMIT_FACE" value="1" />
+  </emitPointType>
+  <directionType description="" type="enum">
+    <Enum description="DIRECTION_Y_UP" value="0" />
+    <Enum description="DIRECTION_NORMAL" value="1" />
+    <Enum description="DIRECTION_RANDOM" value="2" />
+  </directionType>
+  <interval description="" type="float" />
+  <loopTime description="" type="float" />
+  <bottomExclusion description="" type="bool" />
+  <upperHalfOnly description="" type="bool" />
+  <active description="" type="enum">
+    <Enum description="TYPE_ACTIVE" value="0" />
+    <Enum description="TYPE_NONACTIVE" value="1" />
+  </active>
+  <sectorId description="" type="sint32" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

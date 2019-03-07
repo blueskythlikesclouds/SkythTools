@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <balloonColor description="" type="enum">
+    <Enum description="COLOR_BLUE" value="0" />
+    <Enum description="COLOR_GREEN" value="1" />
+    <Enum description="COLOR_RED" value="2" />
+    <Enum description="COLOR_YELLOW" value="3" />
+    <Enum description="NUM_COLORS" value="4" />
+  </balloonColor>
+  <dimension description="" type="enum">
+    <Enum description="DIM_SV" value="0" />
+    <Enum description="DIM_FV" value="1" />
+  </dimension>
+  <upSpeed description="" type="float" />
+  <speedMin description="" type="float" />
+  <speedMax description="" type="float" />
+  <respawnTime description="" type="float" />
+  <isDefaultPositionRespawn description="" type="bool" />
+  <isGroupSet description="" type="bool" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <num description="" type="sint32" />
+  <interval description="" type="float" />
+  <lineOffset description="" type="float" />
+  <moveType description="" type="enum">
+    <Enum description="MOVE_ONCE" value="0" />
+    <Enum description="MOVE_LOOP" value="1" />
+  </moveType>
+  <distance description="" type="float" />
+  <speed description="" type="float" />
+  <dropBomb description="" type="bool" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

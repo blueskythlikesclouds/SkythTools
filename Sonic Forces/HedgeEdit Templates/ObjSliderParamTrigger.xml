@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector2" />
+  <speed description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

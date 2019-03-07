@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <pathID description="" type="uint32" />
+  <speedType description="" type="enum">
+    <Enum description="SPEED_FIX" value="0" />
+    <Enum description="SPEED_MIN" value="1" />
+  </speedType>
+  <speed description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <launchSpeed description="" type="float" />
+  <launchAttackTime description="" type="float" />
+  <isPoseToReverseGravity description="" type="bool" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

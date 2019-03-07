@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <respawnTime description="" type="float" />
+  <basePoint description="" type="enum">
+    <Enum description="BASE_BOTTOM" value="0" />
+    <Enum description="BASE_TOP" value="1" />
+  </basePoint>
+  <Extra length="8" name="RawByteLength" />
+</Template>

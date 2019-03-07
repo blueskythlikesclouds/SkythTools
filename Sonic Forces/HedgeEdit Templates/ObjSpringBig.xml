@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathUID description="" type="uint32" />
+  <speed description="" type="float" />
+  <keepVelocityTime description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

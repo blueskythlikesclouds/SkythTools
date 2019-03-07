@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <zRot description="" type="float" />
+  <distance description="" type="float" />
+  <pathID description="" type="uint32" />
+  <pathOffset description="" type="float" />
+  <reversePathFront description="" type="bool" />
+  <usePathVerticalComponent description="" type="bool" />
+  <angleSensitivity description="" type="float" />
+  <angleSensitivityBoost description="" type="float" />
+  <azimuthOffsetDeg description="" type="float" />
+  <elevationOffsetDeg description="" type="float" />
+  <gravityOffset description="" type="float" />
+  <playerOffset description="" type="vector3" />
+  <playerOffsetType description="" type="enum">
+    <Enum description="PLAYER_OFFSET_NORMAL" value="0" />
+    <Enum description="PLAYER_OFFSET_ABSOLUTE" value="1" />
+  </playerOffsetType>
+  <followType description="" type="enum">
+    <Enum description="FOLLOWTYPE_INTELLIGENT" value="0" />
+    <Enum description="FOLLOWTYPE_SIMPLE" value="1" />
+  </followType>
+  <Extra length="80" name="RawByteLength" />
+</Template>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <TargetList description="" type="forcesObjectList" />
+  <Trigger description="" type="enum">
+    <Enum description="TRIGERTYPE_DEAD" value="0" />
+  </Trigger>
+  <Condition description="" type="enum">
+    <Enum description="CONDITION_ALL" value="0" />
+    <Enum description="CONDITION_OR" value="1" />
+  </Condition>
+  <TimesType description="" type="enum">
+    <Enum description="TIMESTYPE_ONCE" value="0" />
+    <Enum description="TIMESTYPE_SEVERAL" value="1" />
+  </TimesType>
+  <EventList description="" type="forcesObjectList" />
+  <EventNotifier description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </EventNotifier>
+  <EventTimer description="" type="float" />
+  <EventList2 description="" type="forcesObjectList" />
+  <EventNotifier2 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </EventNotifier2>
+  <EventTimer2 description="" type="float" />
+  <EventList3 description="" type="forcesObjectList" />
+  <EventNotifier3 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </EventNotifier3>
+  <EventTimer3 description="" type="float" />
+  <Extra length="128" name="RawByteLength" />
+</Template>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_SHORT" value="0" />
+    <Enum description="TYPE_LONG" value="1" />
+    <Enum description="NUM_TYPES" value="2" />
+  </type>
+  <rigidbody description="" type="bool" />
+  <Extra length="2" name="RawByteLength" />
+</Template>

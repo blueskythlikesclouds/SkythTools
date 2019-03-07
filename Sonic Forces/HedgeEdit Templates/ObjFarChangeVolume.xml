@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <farDist description="" type="float" />
+  <priority description="" type="uint32" />
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </shape>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

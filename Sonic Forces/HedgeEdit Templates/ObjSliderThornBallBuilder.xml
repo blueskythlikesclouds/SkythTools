@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <BuildeType description="" type="enum">
+    <Enum description="BUILDE_NONE" value="0" />
+    <Enum description="BUILDE_LOOP" value="1" />
+  </BuildeType>
+  <BuildeNum description="" type="uint32" />
+  <BuildeInterval description="" type="float" />
+  <PathId description="" type="uint32" />
+  <IsReverse description="" type="bool" />
+  <OffsetRadius description="" type="float" />
+  <MoveSpeed description="" type="float" />
+  <MeanderingDistance description="" type="float" />
+  <MeanderingCycle description="" type="float" />
+  <MeanderingPhase description="" type="float" />
+  <limitTime description="" type="float" />
+  <OverTime description="" type="float" />
+  <ColumnNum description="" type="uint32" />
+  <RowNum description="" type="uint32" />
+  <ColumnOffset description="" type="float" />
+  <RowOffset description="" type="float" />
+  <IsEvent description="" type="bool" />
+  <Extra length="68" name="RawByteLength" />
+</Template>

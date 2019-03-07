@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <actionType description="" type="enum">
+    <Enum description="ACT_LOOP" value="0" />
+    <Enum description="ACT_ONCE" value="1" />
+    <Enum description="NUM_ACT_TYPE" value="2" />
+  </actionType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <attackDistance description="" type="float" />
+  <landingAngleMin description="" type="vector3" />
+  <landingAngleMax description="" type="vector3" />
+  <landingTime description="" type="float" />
+  <speed description="" type="float" />
+  <delay description="" type="float" />
+  <phase description="" type="float" />
+  <isEventDriven description="" type="bool" />
+  <isExpEffect description="" type="bool" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

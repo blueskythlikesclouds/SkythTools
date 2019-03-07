@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <cueName description="" type="string" />
+  <playMode description="" type="enum">
+    <Enum description="PLAYMODE_LOOP" value="0" />
+    <Enum description="PLAYMODE_ONE_SHOT" value="1" />
+    <Enum description="PLAYMODE_PERIODIC" value="2" />
+  </playMode>
+  <timeOffset description="" type="float" />
+  <playInterval description="" type="float" />
+  <volume description="" type="float" />
+  <hearingRange description="" type="float" />
+  <undampedRange description="" type="float" />
+  <pathID description="" type="uint32" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <effectName description="" type="string" />
+  <scale description="" type="float" />
+  <colorR description="" type="uint8" />
+  <colorG description="" type="uint8" />
+  <colorB description="" type="uint8" />
+  <colorA description="" type="uint8" />
+  <sound_name description="" type="string" />
+  <sound_is3D description="" type="bool" />
+  <sound_volume description="" type="float" />
+  <rumble_name description="" type="string" />
+  <trigger description="" type="enum">
+    <Enum description="RANGE" value="0" />
+    <Enum description="MESSAGE" value="1" />
+  </trigger>
+  <sectorId description="" type="sint32" />
+  <Extra length="72" name="RawByteLength" />
+</Template>

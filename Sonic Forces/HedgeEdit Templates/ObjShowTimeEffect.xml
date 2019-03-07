@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <time description="" type="float" />
+  <slowMotion description="" type="enum">
+    <Enum description="SLOW_ALL" value="0" />
+    <Enum description="SLOW_OBJECT" value="1" />
+    <Enum description="NONE" value="2" />
+  </slowMotion>
+  <eventDriven description="" type="bool" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

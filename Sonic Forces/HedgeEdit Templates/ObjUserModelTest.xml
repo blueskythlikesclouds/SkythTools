@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <preset description="" type="enum">
+    <Enum description="RENDER_PRESET_OPAQUE" value="0" />
+    <Enum description="RENDER_PRESET_PUNCHTHROUGH" value="1" />
+    <Enum description="RENDER_PRESET_TRANSPARENT" value="2" />
+    <Enum description="RENDER_PRESET_ADD" value="3" />
+  </preset>
+  <texturePack description="" type="string" />
+  <texture description="" type="string" />
+  <red description="" type="uint8" />
+  <green description="" type="uint8" />
+  <blue description="" type="uint8" />
+  <alpha description="" type="uint8" />
+  <scale description="" type="float" />
+  <vertexShaderName description="" type="string" />
+  <pixelShaderName description="" type="string" />
+  <shadowCaster description="" type="bool" />
+  <shadowReceiver description="" type="bool" />
+  <dynamic description="" type="bool" />
+  <move description="" type="enum">
+    <Enum description="MOVE_NONE" value="0" />
+    <Enum description="MOVE_SWING" value="1" />
+    <Enum description="MOVE_ROTATE" value="2" />
+  </move>
+  <Extra length="88" name="RawByteLength" />
+</Template>

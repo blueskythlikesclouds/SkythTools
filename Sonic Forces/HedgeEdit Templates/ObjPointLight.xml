@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <colorR description="" type="float" />
+  <colorG description="" type="float" />
+  <colorB description="" type="float" />
+  <sourceRadius description="" type="float" />
+  <halfLength description="" type="float" />
+  <attenuationRadius description="" type="float" />
+  <move_type description="" type="enum">
+    <Enum description="MOVE_NONE" value="0" />
+    <Enum description="MOVE_CONSTANT" value="1" />
+    <Enum description="MOVE_ROTATE" value="2" />
+  </move_type>
+  <move_distance description="" type="float" />
+  <move_cycle description="" type="float" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

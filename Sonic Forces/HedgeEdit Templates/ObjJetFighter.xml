@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <formationType description="" type="enum">
+    <Enum description="FORMATION_1_JET" value="0" />
+    <Enum description="FORMATION_2_JET" value="1" />
+    <Enum description="FORMATION_3_JET" value="2" />
+    <Enum description="FORMATION_4_JET" value="3" />
+    <Enum description="FORMATION_5_JET" value="4" />
+    <Enum description="FORMATION_NUM" value="5" />
+  </formationType>
+  <pathID description="" type="uint32" />
+  <frontInterval description="" type="float" />
+  <widthInterval description="" type="float" />
+  <speed description="" type="float" />
+  <initScale description="" type="float" />
+  <scalingTime description="" type="float" />
+  <aliveTime description="" type="float" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

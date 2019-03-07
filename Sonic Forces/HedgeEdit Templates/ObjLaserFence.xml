@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <actionType description="" type="enum">
+    <Enum description="ACT_LOOP" value="0" />
+    <Enum description="ACT_ONCE" value="1" />
+    <Enum description="ACT_KEEP" value="2" />
+    <Enum description="NUM_ACT_TYPE" value="3" />
+  </actionType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <laserLength description="" type="float" />
+  <waitTime description="" type="float" />
+  <activeTime description="" type="float" />
+  <phase description="" type="float" />
+  <isEventDriven description="" type="bool" />
+  <isSE description="" type="bool" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <autorunSpeed description="" type="float" />
+  <size description="" type="vector3" />
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+  </basePoint>
+  <endToAutorun description="" type="bool" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

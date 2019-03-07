@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <pathID description="" type="sint32" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

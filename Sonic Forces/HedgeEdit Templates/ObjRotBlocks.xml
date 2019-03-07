@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <moveType description="" type="enum">
+    <Enum description="AROUND" value="0" />
+    <Enum description="STAIRS" value="1" />
+  </moveType>
+  <eventDriven description="" type="bool" />
+  <isClockWise description="" type="bool" />
+  <rotateTime description="" type="float" />
+  <rotateWaitTime description="" type="float" />
+  <phase description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sourceParamNo description="" type="uint32" />
+  <targetParamNo description="" type="uint32" />
+  <time description="" type="float" />
+  <interpolateType description="" type="enum">
+    <Enum description="LINEAR" value="0" />
+    <Enum description="SIN_CURVE" value="1" />
+  </interpolateType>
+  <Extra length="16" name="RawByteLength" />
+</Template>

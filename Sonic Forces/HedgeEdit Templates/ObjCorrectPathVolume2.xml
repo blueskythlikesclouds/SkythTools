@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <pathID description="" type="uint32" />
+  <force description="" type="float" />
+  <forceInPath description="" type="float" />
+  <minDistance description="" type="float" />
+  <maxDistance description="" type="float" />
+  <correctNormal description="" type="bool" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

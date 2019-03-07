@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <distance description="" type="float" />
+  <pathID description="" type="uint32" />
+  <pathOffset description="" type="float" />
+  <gravityOffset description="" type="float" />
+  <playerOffset description="" type="vector3" />
+  <worldOffset description="" type="vector3" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathUID description="" type="sint32" />
+  <type description="" type="enum">
+    <Enum description="OBJ_PATH" value="0" />
+    <Enum description="SV_PATH" value="1" />
+    <Enum description="GR_PATH" value="2" />
+  </type>
+  <polygonType description="" type="enum">
+    <Enum description="TRIANGLE_PATH" value="0" />
+    <Enum description="SQUARE_PATH" value="1" />
+  </polygonType>
+  <normalType description="" type="enum">
+    <Enum description="NOR_DEFAULT" value="0" />
+    <Enum description="NOR_OUTSIDE" value="1" />
+    <Enum description="NOR_INSIDE" value="2" />
+  </normalType>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <offsetHeight description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

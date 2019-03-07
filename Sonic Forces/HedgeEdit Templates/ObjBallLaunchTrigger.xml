@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <pathID description="" type="uint32" />
+  <minSpeed description="" type="float" />
+  <maxSpeed description="" type="float" />
+  <reverse description="" type="bool" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

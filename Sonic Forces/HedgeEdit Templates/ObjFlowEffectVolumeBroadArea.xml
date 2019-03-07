@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <effectType description="" type="enum">
+    <Enum description="EFFECTTYPE_FIRE_DUST" value="0" />
+    <Enum description="EFFECTTYPE_SNOW" value="1" />
+    <Enum description="EFFECTTYPE_NOISE" value="2" />
+    <Enum description="EFFECTTYPE_HIDE" value="3" />
+    <Enum description="EFFECTTYPE_NUM" value="4" />
+  </effectType>
+  <isOnlyScreenSpace description="" type="bool" />
+  <emitterCount description="" type="uint32" />
+  <zOffset description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

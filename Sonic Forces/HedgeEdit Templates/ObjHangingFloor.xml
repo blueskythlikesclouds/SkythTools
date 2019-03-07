@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sizeType description="" type="enum">
+    <Enum description="SIZE_3M" value="0" />
+    <Enum description="SIZE_4M" value="1" />
+    <Enum description="SIZE_5M" value="2" />
+    <Enum description="SIZE_7M" value="3" />
+    <Enum description="SIZE_TYPE_MAX" value="4" />
+  </sizeType>
+  <startPoint description="" type="enum">
+    <Enum description="START_LEFT" value="0" />
+    <Enum description="START_RIGHT" value="1" />
+  </startPoint>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <chainNum description="" type="uint16" />
+  <rotation description="" type="float" />
+  <speed description="" type="float" />
+  <phase description="" type="float" />
+  <isOneway description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

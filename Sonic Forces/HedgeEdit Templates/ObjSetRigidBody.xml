@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <initial description="" type="bool" />
+  <action description="" type="enum">
+    <Enum description="ACT_TERRAIN" value="0" />
+    <Enum description="ACT_RAYBLOCK" value="1" />
+  </action>
+  <Extra length="32" name="RawByteLength" />
+</Template>

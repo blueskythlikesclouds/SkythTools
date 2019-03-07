@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <autorunSpeed description="" type="float" />
+  <type description="" type="enum">
+    <Enum description="ACT_START" value="0" />
+    <Enum description="ACT_END" value="1" />
+    <Enum description="ACT_END_AUTORON" value="2" />
+  </type>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

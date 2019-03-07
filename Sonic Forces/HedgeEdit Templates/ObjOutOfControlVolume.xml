@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <releaseByGround description="" type="bool" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

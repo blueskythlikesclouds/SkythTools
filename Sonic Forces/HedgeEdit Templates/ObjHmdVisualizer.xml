@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <m_srcType description="" type="enum">
+    <Enum description="SRC_TYPE_DEVICE" value="0" />
+    <Enum description="SRC_TYPE_LEFT" value="1" />
+    <Enum description="SRC_TYPE_RIGHT" value="2" />
+    <Enum description="SRC_TYPE_COUNT" value="3" />
+    <Enum description="NUM_SRC_TYPES" value="3" />
+  </m_srcType>
+  <m_applyPosition description="" type="bool" />
+  <m_primitive description="" type="bool" />
+  <m_bodySize description="" type="vector3" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

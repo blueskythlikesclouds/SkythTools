@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <moveSpeed description="" type="float" />
+  <destination description="" type="vector3" />
+  <phase description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <firstSpeed description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathId description="" type="uint32" />
+  <lightingTime description="" type="float" />
+  <lightOffTime description="" type="float" />
+  <firstWaitTime description="" type="float" />
+  <isOnewayFooting description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

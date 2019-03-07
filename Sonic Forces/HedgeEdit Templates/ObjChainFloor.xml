@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <radius description="" type="float" />
+  <floorCount description="" type="uint32" />
+  <angularSpeed description="" type="float" />
+  <phase description="" type="float" />
+  <floorSize description="" type="enum">
+    <Enum description="SIZE_A" value="0" />
+    <Enum description="SIZE_B" value="1" />
+    <Enum description="SIZE_C" value="2" />
+  </floorSize>
+  <rotateType description="" type="enum">
+    <Enum description="ROT_LEFT" value="0" />
+    <Enum description="ROT_RIGHT" value="1" />
+  </rotateType>
+  <visualType description="" type="enum">
+    <Enum description="VISUAL_A" value="0" />
+    <Enum description="VISUAL_B" value="1" />
+    <Enum description="NUM_VISUAL_TYPE" value="2" />
+  </visualType>
+  <isOneway description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

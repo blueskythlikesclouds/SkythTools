@@ -1,0 +1,1 @@
+for %%f in ("*.hkx") do "sonicForcesHkxConverter.py" "%%f"

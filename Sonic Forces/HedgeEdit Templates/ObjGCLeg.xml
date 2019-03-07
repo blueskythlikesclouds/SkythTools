@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <fallWait description="" type="float" />
+  <riseWait description="" type="float" />
+  <phase description="" type="float" />
+  <targetWoodBridge description="" type="forcesObjectList" />
+  <effectType description="" type="enum">
+    <Enum description="TYPE_GROUND_A" value="0" />
+    <Enum description="TYPE_GROUND_B" value="1" />
+    <Enum description="TYPE_FLOOR" value="2" />
+  </effectType>
+  <Extra length="48" name="RawByteLength" />
+</Template>

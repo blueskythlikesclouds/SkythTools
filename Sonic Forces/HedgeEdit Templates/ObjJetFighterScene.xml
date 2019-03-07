@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <apperSpeed description="" type="float" />
+  <relativeDistance description="" type="float" />
+  <decelerationTime description="" type="float" />
+  <decelerationDicetance description="" type="float" />
+  <takeHomingTime description="" type="float" />
+  <flyawayAccele description="" type="float" />
+  <maxFlyawaySpeed description="" type="float" />
+  <collider_radius description="" type="float" />
+  <allOffset description="" type="vector3" />
+  <jetOffest_01 description="" type="vector3" />
+  <jetOffest_02 description="" type="vector3" />
+  <jetOffest_03 description="" type="vector3" />
+  <jetOffest_04 description="" type="vector3" />
+  <jetOffest_05 description="" type="vector3" />
+  <jetOffest_target description="" type="vector3" />
+  <playerPositionOnSuccess description="" type="vector3" />
+  <Extra length="176" name="RawByteLength" />
+</Template>

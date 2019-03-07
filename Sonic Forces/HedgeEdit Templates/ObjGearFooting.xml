@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <gearType description="" type="enum">
+    <Enum description="GEAR_TYPE_STANDING_8M" value="0" />
+    <Enum description="GEAR_TYPE_STANDING_12M" value="1" />
+    <Enum description="GEAR_TYPE_LIE_DOWN_8M" value="2" />
+    <Enum description="GEAR_TYPE_LIE_DOWN_10M" value="3" />
+    <Enum description="GEAR_TYPE_LIE_DOWN_16M" value="4" />
+    <Enum description="GEAR_TYPE_LIE_DOWN_10M_5" value="5" />
+    <Enum description="GEAR_TYPE_MAX" value="6" />
+  </gearType>
+  <numGears description="" type="sint8" />
+  <rotateType description="" type="enum">
+    <Enum description="ROTATE_LEFT" value="0" />
+    <Enum description="ROTATE_RIGHT" value="1" />
+  </rotateType>
+  <axisType description="" type="enum">
+    <Enum description="AXIS_ON" value="0" />
+    <Enum description="AXIS_OFF" value="1" />
+  </axisType>
+  <eventDriven description="" type="bool" />
+  <speed description="" type="float" />
+  <moveTime description="" type="float" />
+  <idleTime description="" type="float" />
+  <phase description="" type="float" />
+  <moveDistance description="" type="float" />
+  <easingType description="" type="enum">
+    <Enum description="EASE_LINER" value="0" />
+    <Enum description="EASE_QUADRATIC" value="1" />
+    <Enum description="EASE_CUBIC" value="2" />
+    <Enum description="EASE_QUARTIC" value="3" />
+    <Enum description="EASE_QUINTIC" value="4" />
+    <Enum description="EASE_SINE" value="5" />
+    <Enum description="EASE_EXPONENTIAL" value="6" />
+    <Enum description="EASE_CIRCULAR" value="7" />
+    <Enum description="EASE_BACK" value="8" />
+    <Enum description="EASE_BOUNCE" value="9" />
+    <Enum description="EASE_ELASTIC" value="10" />
+  </easingType>
+  <numRepeats description="" type="sint32" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

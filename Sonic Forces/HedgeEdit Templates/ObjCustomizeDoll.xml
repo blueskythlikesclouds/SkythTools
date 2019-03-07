@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <customizeData_sex description="" type="enum">
+    <Enum description="MALE" value="0" />
+    <Enum description="FEMALE" value="1" />
+    <Enum description="NUM_SEX" value="2" />
+  </customizeData_sex>
+  <customizeData_race description="" type="enum">
+    <Enum description="DOG" value="0" />
+    <Enum description="WOLF" value="1" />
+    <Enum description="RABBIT" value="2" />
+    <Enum description="BEAR" value="3" />
+    <Enum description="CAT" value="4" />
+    <Enum description="BIRD" value="5" />
+    <Enum description="HEDGEHOG" value="6" />
+    <Enum description="NUM_RACES" value="7" />
+  </customizeData_race>
+  <customizeData_rank description="" type="uint8" />
+  <customizeData_gadgetNo description="" type="uint8" />
+  <customizeData_head description="" type="uint8" />
+  <customizeData_eye description="" type="uint8" />
+  <customizeData_voice description="" type="uint8" />
+  <customizeData_baseColor description="" type="uint8" />
+  <customizeData_skinColor description="" type="uint8" />
+  <customizeData_beakColor description="" type="uint8" />
+  <customizeData_eyeColor description="" type="uint8" />
+  <customizeData_headPart description="" type="uint8" />
+  <customizeData_glassPart description="" type="uint8" />
+  <customizeData_facePart description="" type="uint8" />
+  <customizeData_glovePart description="" type="uint8" />
+  <customizeData_shoesPart description="" type="uint8" />
+  <customizeData_bodyPart description="" type="uint8" />
+  <customizeData_suitNo description="" type="uint8" />
+  <customizeData_innerColor description="" type="uint8" />
+  <customizeData_resultMotionNo description="" type="uint8" />
+  <customizeData_experiencePoint description="" type="uint32" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="NUMBER_5" value="0" />
+    <Enum description="NUMBER_4" value="1" />
+    <Enum description="NUMBER_3" value="2" />
+    <Enum description="NUMBER_2" value="3" />
+    <Enum description="NUMBER_1" value="4" />
+  </type>
+  <separateTranslucent description="" type="bool" />
+  <Extra length="2" name="RawByteLength" />
+</Template>

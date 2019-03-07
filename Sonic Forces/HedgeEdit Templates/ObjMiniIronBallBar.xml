@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <rotateDir description="" type="enum">
+    <Enum description="ROTATEDIR_CLOCK" value="0" />
+    <Enum description="FRONTDIR_ANTICLOCK" value="1" />
+  </rotateDir>
+  <velocity description="" type="float" />
+  <numIronBall description="" type="sint32" />
+  <phase description="" type="float" />
+  <standDir description="" type="enum">
+    <Enum description="STANDDIR_UP" value="0" />
+    <Enum description="STANDDIR_DOWN" value="1" />
+  </standDir>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <eventDriven description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

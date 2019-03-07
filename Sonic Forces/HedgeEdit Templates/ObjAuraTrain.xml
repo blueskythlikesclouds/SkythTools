@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathId description="" type="uint32" />
+  <moveSpeed description="" type="float" />
+  <poleType description="" type="enum">
+    <Enum description="POLETYPE_LEFT" value="0" />
+    <Enum description="POLETYPE_RIGHT" value="1" />
+  </poleType>
+  <coutDownTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

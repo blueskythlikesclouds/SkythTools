@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <radius description="" type="float" />
+  <numPlain description="" type="sint32" />
+  <splitDistance description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

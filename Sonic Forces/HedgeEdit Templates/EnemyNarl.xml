@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_SHOT" value="0" />
+    <Enum description="TYPE_FLAME" value="1" />
+    <Enum description="NUM_TYPE" value="2" />
+  </type>
+  <isFV description="" type="bool" />
+  <collisionShape description="" type="enum">
+    <Enum description="SHAPE_SPHERE" value="0" />
+    <Enum description="SHAPE_BOX" value="1" />
+    <Enum description="NUM_SHAPE" value="2" />
+  </collisionShape>
+  <searchExtents description="" type="vector3" />
+  <searchOffset description="" type="vector3" />
+  <headAngle description="" type="float" />
+  <isEventOn description="" type="bool" />
+  <headPitch description="" type="float" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

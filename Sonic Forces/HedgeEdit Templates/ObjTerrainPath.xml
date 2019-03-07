@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <widthStart description="" type="float" />
+  <widthEnd description="" type="float" />
+  <height description="" type="float" />
+  <wallHeight description="" type="float" />
+  <split description="" type="sint32" />
+  <rightWallType description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </rightWallType>
+  <leftWallType description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </leftWallType>
+  <frontWallType description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </frontWallType>
+  <backWallType description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </backWallType>
+  <wallAttr description="" type="enum">
+    <Enum description="WALLATTR_NONE" value="0" />
+    <Enum description="WALLATTR_NOT_PARKOUR" value="1" />
+  </wallAttr>
+  <normalType description="" type="enum">
+    <Enum description="NORMAL_BY_YUP" value="0" />
+    <Enum description="NORMAL_BY_PATH" value="1" />
+  </normalType>
+  <Extra length="32" name="RawByteLength" />
+</Template>

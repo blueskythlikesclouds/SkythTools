@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <continuousShakeStatus_m_magnitude description="" type="float" />
+  <continuousShakeStatus_m_freq description="" type="sint32" />
+  <continuousShakeStatus_m_zRot description="" type="float" />
+  <periodicShakeStatus_m_magnitude description="" type="float" />
+  <periodicShakeStatus_m_freq description="" type="sint32" />
+  <periodicShakeStatus_m_zRot description="" type="float" />
+  <periodicShakeStatus_m_shakeTime description="" type="float" />
+  <periodicShakeStatus_m_cycleTime description="" type="float" />
+  <width description="" type="float" />
+  <heigth description="" type="float" />
+  <depth description="" type="float" />
+  <Extra length="44" name="RawByteLength" />
+</Template>

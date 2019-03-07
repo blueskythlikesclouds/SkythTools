@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <distance description="" type="float" />
+  <pathID description="" type="uint32" />
+  <elevation description="" type="float" />
+  <azimuth description="" type="float" />
+  <limitLeftRatio description="" type="float" />
+  <limitRightRatio description="" type="float" />
+  <upScrollRatio description="" type="float" />
+  <limitUpScrollDistance description="" type="float" />
+  <downScrollRatio description="" type="float" />
+  <limitDownScrollDistance description="" type="float" />
+  <isLimitPathDistance description="" type="bool" />
+  <limitPathDistanceMin description="" type="float" />
+  <limitPathDistanceMax description="" type="float" />
+  <orientationMode description="" type="enum">
+    <Enum description="ORIENTATION_GRAVITY" value="0" />
+    <Enum description="ORIENTATION_PATH_NORMAL" value="1" />
+  </orientationMode>
+  <isEnableAzimuthOffset description="" type="bool" />
+  <isSmoothPath description="" type="bool" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

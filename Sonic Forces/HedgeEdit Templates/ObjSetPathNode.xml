@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <nodeId description="" type="uint32" />
+  <lineType description="" type="enum">
+    <Enum description="LINETYPE_SNS" value="0" />
+    <Enum description="LINETYPE_STRAIGHT" value="1" />
+  </lineType>
+  <Extra length="8" name="RawByteLength" />
+</Template>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <chargeTime description="" type="float" />
+  <waitTime description="" type="float" />
+  <bulletSpeed description="" type="float" />
+  <firstShotTime description="" type="float" />
+  <existDistance description="" type="float" />
+  <phase description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

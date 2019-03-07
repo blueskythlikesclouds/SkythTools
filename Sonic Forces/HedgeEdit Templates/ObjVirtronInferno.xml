@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <angle description="" type="float" />
+  <radius description="" type="float" />
+  <speed description="" type="float" />
+  <aliveTime description="" type="float" />
+  <waitTime description="" type="float" />
+  <phase description="" type="float" />
+  <isGlobalTime description="" type="bool" />
+  <isSpawnImm description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <disappearAll description="" type="bool" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </shape>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <isHideIfInput description="" type="bool" />
+  <cautionType description="" type="enum">
+    <Enum description="CAUTIONTYPE_NONE" value="4294967295" />
+    <Enum description="CAUTIONTYPE_EXCLAMATION" value="0" />
+    <Enum description="CAUTIONTYPE_QUICK_STEP" value="1" />
+    <Enum description="CAUTIONTYPE_DRIFT" value="2" />
+  </cautionType>
+  <naviType description="" type="enum">
+    <Enum description="NAVITYPE_NONE" value="0" />
+    <Enum description="NAVITYPE_JUMP" value="1" />
+    <Enum description="NAVITYPE_SLIDING" value="2" />
+    <Enum description="NAVITYPE_BOOST" value="3" />
+    <Enum description="NAVITYPE_WISPON_R" value="4" />
+    <Enum description="NAVITYPE_WISPON_L" value="5" />
+    <Enum description="NAVITYPE_STEP_BOTH" value="6" />
+    <Enum description="NAVITYPE_STEP_L" value="7" />
+    <Enum description="NAVITYPE_STEP_R" value="8" />
+    <Enum description="NAVITYPE_HORMING_ATTACK" value="9" />
+    <Enum description="NAVITYPE_STOMPING" value="10" />
+    <Enum description="NAVITYPE_SPIN_DASH" value="11" />
+    <Enum description="NAVITYPE_GRIND_MOVE" value="12" />
+    <Enum description="NAVITYPE_BADDY_CHANGE" value="13" />
+    <Enum description="NAVITYPE_COUNT" value="14" />
+  </naviType>
+  <isSwitch description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

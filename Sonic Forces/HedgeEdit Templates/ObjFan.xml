@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_ON" value="0" />
+    <Enum description="TYPE_CYCLE" value="1" />
+  </type>
+  <length description="" type="float" />
+  <velocity description="" type="float" />
+  <onTime description="" type="float" />
+  <offTime description="" type="float" />
+  <phase description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

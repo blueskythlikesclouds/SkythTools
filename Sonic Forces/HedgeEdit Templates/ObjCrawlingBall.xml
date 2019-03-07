@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <moveType description="" type="enum">
+    <Enum description="PATH_SELF" value="0" />
+    <Enum description="PATH_SET" value="1" />
+  </moveType>
+  <rotateType description="" type="enum">
+    <Enum description="ROTATE_RIGHT" value="0" />
+    <Enum description="ROTATE_LEFT" value="1" />
+    <Enum description="ROTATE_TURN_BACK" value="2" />
+  </rotateType>
+  <floorSizeType description="" type="enum">
+    <Enum description="SIZE_NONE" value="0" />
+    <Enum description="SIZE_2M" value="1" />
+    <Enum description="SIZE_4M" value="2" />
+    <Enum description="SIZE_6M" value="3" />
+    <Enum description="SIZE_8M" value="4" />
+    <Enum description="NUM_SIZE" value="5" />
+  </floorSizeType>
+  <pathID description="" type="uint32" />
+  <ballNum description="" type="uint32" />
+  <childNum description="" type="uint32" />
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <phase description="" type="float" />
+  <speed description="" type="float" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <openDistance description="" type="float" />
+  <closeDistance description="" type="float" />
+  <onlyFirstTime description="" type="bool" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

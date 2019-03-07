@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <Fovy description="" type="float" />
+  <ZRot description="" type="float" />
+  <TargetType description="" type="uint8" />
+  <Target description="" type="forcesObjectReference" />
+  <TargetPositionFix description="" type="vector3" />
+  <Distance description="" type="float" />
+  <Yaw description="" type="float" />
+  <Pitch description="" type="float" />
+  <TargetOffsetRight description="" type="float" />
+  <TargetOffsetUp description="" type="float" />
+  <TargetOffsetFront description="" type="float" />
+  <IsRotateUpDir description="" type="bool" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

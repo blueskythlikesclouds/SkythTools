@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <eventDrivenMotion description="" type="bool" />
+  <targets description="" type="forcesObjectList" />
+  <motionType description="" type="enum">
+    <Enum description="TYPE_DESTROY_A" value="0" />
+  </motionType>
+  <eventDriven description="" type="bool" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

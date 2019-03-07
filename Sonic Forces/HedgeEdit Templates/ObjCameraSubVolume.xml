@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <target description="" type="forcesObjectReference" />
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </shape>
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+  </basePoint>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

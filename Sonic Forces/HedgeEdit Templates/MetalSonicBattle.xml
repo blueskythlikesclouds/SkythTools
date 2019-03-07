@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <quickstepWidth description="" type="float" />
+  <autoRunSpeed description="" type="float" />
+  <entryStart description="" type="forcesObjectReference" />
+  <entryGoal description="" type="forcesObjectReference" />
+  <battle1Start description="" type="forcesObjectReference" />
+  <battle1Goal description="" type="forcesObjectReference" />
+  <battle2Start description="" type="forcesObjectReference" />
+  <battle2Goal description="" type="forcesObjectReference" />
+  <battle3Start description="" type="forcesObjectReference" />
+  <battle3Goal description="" type="forcesObjectReference" />
+  <EntryOutCamera description="" type="forcesObjectReference" />
+  <battle1InCamera description="" type="forcesObjectReference" />
+  <battle1OutCamera description="" type="forcesObjectReference" />
+  <battle2InCamera description="" type="forcesObjectReference" />
+  <battle2OutCamera description="" type="forcesObjectReference" />
+  <battle3InCamera description="" type="forcesObjectReference" />
+  <battle3OutCamera description="" type="forcesObjectReference" />
+  <doubleBoostStartPos description="" type="forcesObjectReference" />
+  <doubleBoostCameraTarget description="" type="forcesObjectReference" />
+  <doubleboostCameraInterporateTime description="" type="float" />
+  <Extra length="84" name="RawByteLength" />
+</Template>

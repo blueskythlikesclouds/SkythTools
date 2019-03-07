@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <behaviorType description="" type="enum">
+    <Enum description="BEHAVIOR_IDLE" value="0" />
+    <Enum description="BEHAVIOR_ATTAK" value="1" />
+    <Enum description="BEHAVIOR_IDLE_01" value="2" />
+    <Enum description="BEHAVIOR_NUM" value="3" />
+  </behaviorType>
+  <eventDriven description="" type="bool" />
+  <Extra length="2" name="RawByteLength" />
+</Template>

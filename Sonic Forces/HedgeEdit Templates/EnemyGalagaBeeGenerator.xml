@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <numBees description="" type="uint32" />
+  <numFirstBees description="" type="uint32" />
+  <appearSpan description="" type="float" />
+  <moveSpeed description="" type="float" />
+  <startPosObj description="" type="forcesObjectReference" />
+  <endPosObj description="" type="forcesObjectReference" />
+  <repat description="" type="bool" />
+  <pad1_0 description="" type="uint8" />
+  <pad1_1 description="" type="uint8" />
+  <pad1_2 description="" type="uint8" />
+  <repeatSpanTime description="" type="float" />
+  <homingReBound description="" type="bool" />
+  <homingDir description="" type="enum">
+    <Enum description="Forward" value="0" />
+    <Enum description="Reverse" value="1" />
+  </homingDir>
+  <pad2_0 description="" type="uint8" />
+  <pad2_1 description="" type="uint8" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <velocity description="" type="float" />
+  <outOfControl description="" type="float" />
+  <motionTime description="" type="float" />
+  <motionType description="" type="enum">
+    <Enum description="MOTION_VERTICAL" value="0" />
+    <Enum description="MOTION_ANGLE" value="1" />
+  </motionType>
+  <colorType description="" type="enum">
+    <Enum description="YELLOW" value="0" />
+    <Enum description="RED" value="1" />
+  </colorType>
+  <isHorizon description="" type="bool" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

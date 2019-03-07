@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <impluse description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

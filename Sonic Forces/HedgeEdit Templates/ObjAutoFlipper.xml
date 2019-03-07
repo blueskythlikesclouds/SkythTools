@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <impluse description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <reactionRange description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

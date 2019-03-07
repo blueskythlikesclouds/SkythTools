@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <distance description="" type="float" />
+  <distanceOutOfEnergy description="" type="float" />
+  <pathID description="" type="uint32" />
+  <pathOffset description="" type="float" />
+  <reversePathFront description="" type="bool" />
+  <targetOffset description="" type="vector3" />
+  <targetOffsetOutOfEnergy description="" type="vector3" />
+  <azimuthOffsetDeg description="" type="float" />
+  <elevationOffsetDeg description="" type="float" />
+  <sideFollowRate description="" type="float" />
+  <upFollowRate description="" type="float" />
+  <shakeOffset description="" type="float" />
+  <Extra length="96" name="RawByteLength" />
+</Template>

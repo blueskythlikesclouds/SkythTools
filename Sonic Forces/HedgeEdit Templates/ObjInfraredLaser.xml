@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <speed description="" type="float" />
+  <phase description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <isGrew description="" type="bool" />
+  <randomPhase description="" type="bool" />
+  <phaseMin description="" type="float" />
+  <phaseMax description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

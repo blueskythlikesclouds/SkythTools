@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_APPEAR" value="0" />
+    <Enum description="TYPE_DISAPPEAR" value="1" />
+  </type>
+  <targets description="" type="forcesObjectList" />
+  <size description="" type="vector3" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

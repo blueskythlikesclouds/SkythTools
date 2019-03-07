@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <moveType description="" type="enum">
+    <Enum description="MOVE_VERTICAL" value="0" />
+    <Enum description="MOVE_HORIZONTAL" value="1" />
+    <Enum description="AROUND_LEFT" value="2" />
+    <Enum description="AROUND_RIGHT" value="3" />
+  </moveType>
+  <numBlock description="" type="uint32" />
+  <blockExtents description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <moveRatio description="" type="float" />
+  <offsetRatio description="" type="float" />
+  <moveTime description="" type="float" />
+  <moveWaitTime description="" type="float" />
+  <phase description="" type="float" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

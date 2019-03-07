@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <placeNum description="" type="sint32" />
+  <interval description="" type="float" />
+  <isEventOn description="" type="bool" />
+  <springSpawner_velocity description="" type="float" />
+  <springSpawner_outOfControl description="" type="float" />
+  <springSpawner_motionTime description="" type="float" />
+  <springSpawner_motionType description="" type="enum">
+    <Enum description="MOTION_VERTICAL" value="0" />
+    <Enum description="MOTION_ANGLE" value="1" />
+  </springSpawner_motionType>
+  <springSpawner_colorType description="" type="enum">
+    <Enum description="YELLOW" value="0" />
+    <Enum description="RED" value="1" />
+  </springSpawner_colorType>
+  <springSpawner_isHorizon description="" type="bool" />
+  <Event0_target description="" type="forcesObjectList" />
+  <Event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event0_eventType>
+  <Event0_timer description="" type="float" />
+  <Event1_target description="" type="forcesObjectList" />
+  <Event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event1_eventType>
+  <Event1_timer description="" type="float" />
+  <Event2_target description="" type="forcesObjectList" />
+  <Event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event2_eventType>
+  <Event2_timer description="" type="float" />
+  <Extra length="128" name="RawByteLength" />
+</Template>

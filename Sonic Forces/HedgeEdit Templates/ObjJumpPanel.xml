@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <ImpulseSpeedOnNormal description="" type="float" />
+  <OutOfControl description="" type="float" />
+  <ImpulseDegree description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

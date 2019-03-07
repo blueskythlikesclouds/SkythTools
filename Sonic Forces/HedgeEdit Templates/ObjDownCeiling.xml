@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sizeType description="" type="enum">
+    <Enum description="SIZE_SMALL" value="0" />
+    <Enum description="SIZE_BIG" value="1" />
+  </sizeType>
+  <hide description="" type="bool" />
+  <height description="" type="float" />
+  <fallTime description="" type="float" />
+  <fastFallDistance description="" type="float" />
+  <fastFallTime description="" type="float" />
+  <isLoop description="" type="bool" />
+  <riseWaitTime description="" type="float" />
+  <riseTime description="" type="float" />
+  <fallWaitTime description="" type="float" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

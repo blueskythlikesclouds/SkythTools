@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <shapeType description="" type="enum">
+    <Enum description="SHAPE_TYPE_CORNER" value="0" />
+    <Enum description="SHAPE_TYPE_SPATULATE" value="1" />
+  </shapeType>
+  <riditType description="" type="enum">
+    <Enum description="RIDIT_TYPE_CORNER" value="0" />
+    <Enum description="RIDIT_TYPE_CENTER" value="1" />
+  </riditType>
+  <firstSpeed description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

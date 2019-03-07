@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathId description="" type="uint32" />
+  <rotateDir description="" type="enum">
+    <Enum description="ROTATEDIR_CLOCK" value="0" />
+    <Enum description="ROTATEDIR_ANTICLOCK" value="1" />
+  </rotateDir>
+  <rotateSpeed description="" type="float" />
+  <moveSpeed description="" type="float" />
+  <playType description="" type="enum">
+    <Enum description="PLAYTYPE_STOP" value="0" />
+    <Enum description="PLAYTYPE_ROUND_TRIP" value="1" />
+    <Enum description="PLAYTYPE_LOOP" value="2" />
+  </playType>
+  <poleType description="" type="enum">
+    <Enum description="POLE_TYPE_1" value="0" />
+    <Enum description="POLE_TYPE_2" value="1" />
+    <Enum description="POLE_TYPE_3" value="2" />
+  </poleType>
+  <Extra length="20" name="RawByteLength" />
+</Template>

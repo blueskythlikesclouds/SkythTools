@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <dimension description="" type="enum">
+    <Enum description="DIM_SV" value="0" />
+    <Enum description="DIM_FV" value="1" />
+  </dimension>
+  <upSpeed description="" type="float" />
+  <speedMin description="" type="float" />
+  <speedMax description="" type="float" />
+  <respawnTime description="" type="float" />
+  <isDefaultPositionRespawn description="" type="bool" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

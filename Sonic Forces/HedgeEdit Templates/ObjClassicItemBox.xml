@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <Type description="" type="enum">
+    <Enum description="ITEMTYPE_TENRINGS" value="0" />
+    <Enum description="ITEMTYPE_HISPEED" value="1" />
+    <Enum description="ITEMTYPE_INVINCIBLE" value="2" />
+    <Enum description="ITEMTYPE_BARRIOR" value="3" />
+  </Type>
+  <BoxType description="" type="enum">
+    <Enum description="BOX_TYPE_ONGROUND" value="0" />
+    <Enum description="BOX_TYPE_AIR" value="1" />
+  </BoxType>
+  <Extra length="2" name="RawByteLength" />
+</Template>

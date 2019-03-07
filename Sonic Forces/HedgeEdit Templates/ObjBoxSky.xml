@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <dummy description="" type="sint32" />
+  <Extra length="4" name="RawByteLength" />
+</Template>

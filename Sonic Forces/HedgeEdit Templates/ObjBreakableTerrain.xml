@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <effectType description="" type="enum">
+    <Enum description="EFFECT_TYPE_01" value="0" />
+    <Enum description="EFFECT_TYPE_02" value="1" />
+    <Enum description="EFFECT_TYPE_03" value="2" />
+    <Enum description="EFFECT_TYPE_NUM" value="3" />
+  </effectType>
+  <Extra length="1" name="RawByteLength" />
+</Template>

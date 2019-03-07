@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <SerachDistance description="" type="float" />
+  <Speed description="" type="float" />
+  <MaxMoveDistance description="" type="float" />
+  <IsEventOn description="" type="bool" />
+  <JumpAttack description="" type="bool" />
+  <IsFV description="" type="bool" />
+  <IsFallStart description="" type="bool" />
+  <isTreadGrass description="" type="bool" />
+  <updateMaterial description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

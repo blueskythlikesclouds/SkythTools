@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <springType description="" type="enum">
+    <Enum description="SPRINGTYPE_YELLOW" value="0" />
+    <Enum description="SPRINGTYPE_RED" value="1" />
+    <Enum description="SPRINGTYPE_MODERN" value="2" />
+  </springType>
+  <velocity description="" type="float" />
+  <outOfControl description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <SerchLength description="" type="float" />
+  <SerchMoveSpeed description="" type="float" />
+  <ViewBoxHalfLengthX description="" type="float" />
+  <ViewBoxHalfLengthY description="" type="float" />
+  <ViewBoxHalfLengthZ description="" type="float" />
+  <ViewBoxOffset description="" type="vector3" />
+  <AttackRangeRatio description="" type="float" />
+  <AttackRangeHeightRatio description="" type="float" />
+  <AttackRangeOffset description="" type="float" />
+  <IsMove description="" type="bool" />
+  <CheckShielding description="" type="bool" />
+  <AttackConst description="" type="bool" />
+  <AttackConstAngle description="" type="float" />
+  <StraightDistance description="" type="float" />
+  <RespawnTime description="" type="float" />
+  <RespawnOffsetPos description="" type="vector3" />
+  <RespawnPathId description="" type="uint32" />
+  <isFV description="" type="bool" />
+  <isEscape description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <Extra length="112" name="RawByteLength" />
+</Template>

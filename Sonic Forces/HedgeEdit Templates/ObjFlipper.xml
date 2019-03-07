@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <firstSpeed description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <keepVelocityTime description="" type="float" />
+  <minAngle description="" type="float" />
+  <maxAngle description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

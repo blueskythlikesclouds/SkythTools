@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <FirstSpeed description="" type="float" />
+  <OutOfControl description="" type="float" />
+  <KeepVelocityDistance description="" type="float" />
+  <VisibleTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

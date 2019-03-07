@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <speed description="" type="float" />
+  <curlNum description="" type="uint32" />
+  <scale description="" type="float" />
+  <phase description="" type="float" />
+  <muteSE description="" type="bool" />
+  <hideEffect description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

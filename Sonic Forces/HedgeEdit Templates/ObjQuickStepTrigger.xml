@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <mode description="" type="enum">
+    <Enum description="MODE_NORMAL" value="0" />
+    <Enum description="MODE_ONLYRUN" value="1" />
+  </mode>
+  <line description="" type="enum">
+    <Enum description="LINE2_LEFT" value="0" />
+    <Enum description="LINE2_RIGHT" value="1" />
+    <Enum description="LINE3" value="2" />
+    <Enum description="LINE5" value="3" />
+  </line>
+  <pathID description="" type="uint32" />
+  <speed description="" type="float" />
+  <stepWidth description="" type="float" />
+  <type description="" type="enum">
+    <Enum description="ACT_START" value="0" />
+    <Enum description="ACT_END" value="1" />
+  </type>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

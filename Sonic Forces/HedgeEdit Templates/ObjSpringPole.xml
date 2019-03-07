@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <speedMin description="" type="float" />
+  <speedMax description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

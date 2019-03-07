@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <shotSpeed description="" type="float" />
+  <shotInterval description="" type="float" />
+  <barrageInterval description="" type="float" />
+  <shotLifeTime description="" type="float" />
+  <barrageType description="" type="enum">
+    <Enum description="BARRAGE_ONE_ROLL" value="0" />
+    <Enum description="BARRAGE_FIREWORKS" value="1" />
+    <Enum description="BARRAGE_PROPELLER" value="2" />
+    <Enum description="BARRAGE_FAN" value="3" />
+    <Enum description="BARRAGE_FAN_WAVE" value="4" />
+  </barrageType>
+  <phase description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

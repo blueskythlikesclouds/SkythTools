@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <impluse description="" type="float" />
+  <angle description="" type="float" />
+  <useAngleL description="" type="bool" />
+  <angleL description="" type="float" />
+  <useAngleR description="" type="bool" />
+  <angleR description="" type="float" />
+  <mirror description="" type="bool" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

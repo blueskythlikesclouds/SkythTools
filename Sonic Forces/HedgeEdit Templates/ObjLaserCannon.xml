@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathId description="" type="uint32" />
+  <endPoint description="" type="forcesObjectReference" />
+  <speed description="" type="float" />
+  <activeTime description="" type="float" />
+  <moveWaitTime description="" type="float" />
+  <acceleTime description="" type="float" />
+  <acceleStartSpeedRate description="" type="float" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

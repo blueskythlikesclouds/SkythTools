@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <Fovy description="" type="float" />
+  <ZRot description="" type="float" />
+  <Distance description="" type="float" />
+  <Yaw description="" type="float" />
+  <Pitch description="" type="float" />
+  <targetOffset description="" type="vector3" />
+  <gravityOffset description="" type="float" />
+  <playerOffset description="" type="vector3" />
+  <followType description="" type="enum">
+    <Enum description="FOLLOWTYPE_INTELLIGENT" value="0" />
+    <Enum description="FOLLOWTYPE_SIMPLE" value="1" />
+  </followType>
+  <Extra length="96" name="RawByteLength" />
+</Template>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <wirePathUID description="" type="uint32" />
+  <movePathUID description="" type="uint32" />
+  <direction description="" type="enum">
+    <Enum description="TURN_LEFT" value="0" />
+    <Enum description="TURN_RIGHT" value="1" />
+  </direction>
+  <speed description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <laserLength description="" type="float" />
+  <fireType description="" type="enum">
+    <Enum description="TYPE_SAME_TIME" value="0" />
+    <Enum description="TYPE_PHASE" value="1" />
+    <Enum description="TYPE_PHASE_INV" value="2" />
+  </fireType>
+  <turretNum description="" type="uint32" />
+  <firstSpeed description="" type="float" />
+  <secondSpeed description="" type="float" />
+  <phase description="" type="float" />
+  <shotPhase description="" type="float" />
+  <shotTime description="" type="float" />
+  <beforeShotWait description="" type="float" />
+  <beforeDownWait description="" type="float" />
+  <waitDownKeep description="" type="float" />
+  <interval description="" type="float" />
+  <shotNum description="" type="uint32" />
+  <checkBarricade description="" type="bool" />
+  <cycle description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <noFrame description="" type="bool" />
+  <hitEffect description="" type="bool" />
+  <sideview description="" type="bool" />
+  <Extra length="60" name="RawByteLength" />
+</Template>

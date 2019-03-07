@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <ShapeType description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+    <Enum description="SHAPE_CAPSULE" value="3" />
+  </ShapeType>
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+    <Enum description="BASE_X_PLANE" value="2" />
+    <Enum description="BASE_Y_PLANE" value="3" />
+  </basePoint>
+  <CollisionFilter description="" type="enum">
+    <Enum description="FILTER_DEFAULT" value="0" />
+    <Enum description="FILTER_HITENEMY" value="1" />
+    <Enum description="FILTER_ALL" value="2" />
+  </CollisionFilter>
+  <CollisionWidth description="" type="float" />
+  <CollisionHeight description="" type="float" />
+  <CollisionDepth description="" type="float" />
+  <pathNo description="" type="sint32" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

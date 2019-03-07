@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <targets0 description="" type="forcesObjectList" />
+  <event0 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event0>
+  <timer0 description="" type="float" />
+  <targets1 description="" type="forcesObjectList" />
+  <event1 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event1>
+  <timer1 description="" type="float" />
+  <targets2 description="" type="forcesObjectList" />
+  <event2 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event2>
+  <timer2 description="" type="float" />
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </shape>
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+  </basePoint>
+  <size description="" type="vector3" />
+  <condition description="" type="enum">
+    <Enum description="COND_ON_TRIGGER" value="0" />
+    <Enum description="COND_PULSE" value="1" />
+    <Enum description="COND_TIMER_ONCE" value="2" />
+    <Enum description="COND_TIMER" value="3" />
+    <Enum description="COND_ON_STAY" value="4" />
+  </condition>
+  <lifetime description="" type="float" />
+  <filter description="" type="enum">
+    <Enum description="FILTER_PLAYER" value="0" />
+  </filter>
+  <eventDriven description="" type="bool" />
+  <Extra length="144" name="RawByteLength" />
+</Template>

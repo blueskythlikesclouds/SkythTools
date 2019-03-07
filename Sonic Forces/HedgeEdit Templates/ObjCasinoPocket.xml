@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="SCORE" value="0" />
+    <Enum description="SLOT" value="1" />
+  </type>
+  <rateJackpot description="" type="uint32" />
+  <rateSonic description="" type="uint32" />
+  <rateSonicJP1 description="" type="uint32" />
+  <rateSonicJP2 description="" type="uint32" />
+  <rateTails description="" type="uint32" />
+  <rateTailsJP1 description="" type="uint32" />
+  <rateTailsJP2 description="" type="uint32" />
+  <rateBar3 description="" type="uint32" />
+  <rateBar2 description="" type="uint32" />
+  <rateBar1 description="" type="uint32" />
+  <rateRing description="" type="uint32" />
+  <rateRingJP1 description="" type="uint32" />
+  <rateRingJP2 description="" type="uint32" />
+  <rateEggman description="" type="uint32" />
+  <rateEggmanJP1 description="" type="uint32" />
+  <rateEggmanJP2 description="" type="uint32" />
+  <rateOut description="" type="uint32" />
+  <targetSlot description="" type="forcesObjectReference" />
+  <Extra length="76" name="RawByteLength" />
+</Template>

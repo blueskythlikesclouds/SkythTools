@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathUID description="" type="sint32" />
+  <type description="" type="enum">
+    <Enum description="OBJ_PATH" value="0" />
+    <Enum description="SV_PATH" value="1" />
+    <Enum description="GR_PATH" value="2" />
+  </type>
+  <distance description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

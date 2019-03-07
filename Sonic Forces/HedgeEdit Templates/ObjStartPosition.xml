@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <m_startType description="" type="enum">
+    <Enum description="STAND" value="0" />
+    <Enum description="RUNNING" value="1" />
+    <Enum description="FALL" value="2" />
+  </m_startType>
+  <m_speed description="" type="float" />
+  <m_time description="" type="float" />
+  <m_outOfControlTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

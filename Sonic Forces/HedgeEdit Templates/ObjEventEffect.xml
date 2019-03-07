@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <name description="" type="string" />
+  <delay description="" type="float" />
+  <interval description="" type="float" />
+  <playNum description="" type="uint32" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

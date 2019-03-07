@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <expType description="" type="enum">
+    <Enum description="EXP_01" value="0" />
+    <Enum description="EXP_02" value="1" />
+    <Enum description="EXP_LIGHT" value="2" />
+    <Enum description="NUM_EXP_TYPE" value="3" />
+  </expType>
+  <pathId description="" type="uint32" />
+  <isDebris description="" type="bool" />
+  <isCameraShake description="" type="bool" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

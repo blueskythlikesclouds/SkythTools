@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <offTime description="" type="float" />
+  <onTime description="" type="float" />
+  <lengthType description="" type="enum">
+    <Enum description="LENGTH_2M" value="0" />
+    <Enum description="LENGTH_4M" value="1" />
+    <Enum description="LENGTH_6M" value="2" />
+    <Enum description="LENGTH_8M" value="3" />
+    <Enum description="LENGTH_10M" value="4" />
+    <Enum description="NUM_LENGTH_TYPES" value="5" />
+  </lengthType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <phase description="" type="float" />
+  <type description="" type="enum">
+    <Enum description="TYPE_ON_OFF" value="0" />
+    <Enum description="TYPE_ON_ONLY" value="1" />
+    <Enum description="TYPE_OFF_ONLY" value="2" />
+  </type>
+  <eventDriven description="" type="bool" />
+  <pitchRotation description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

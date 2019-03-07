@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathID description="" type="uint32" />
+  <DebrisOffsetPos description="" type="vector3" />
+  <FloorObj description="" type="forcesObjectReference" />
+  <BlockObj description="" type="forcesObjectReference" />
+  <Camera1stAtkLaserObj description="" type="forcesObjectReference" />
+  <Camera1stAtkMissileObj description="" type="forcesObjectReference" />
+  <Camera1stAtkDebrisObj description="" type="forcesObjectReference" />
+  <BossPoint2nd description="" type="forcesObjectReference" />
+  <PlayePoint2nd description="" type="forcesObjectReference" />
+  <Camera2ndAtkImpacktObj description="" type="forcesObjectReference" />
+  <Boss3rdObject description="" type="forcesObjectReference" />
+  <PlayePoint3rd description="" type="forcesObjectReference" />
+  <CrushEventPoint description="" type="forcesObjectReference" />
+  <EggpawnSpawner_shotType description="" type="enum">
+    <Enum description="SHOT_BOTH_HANDS" value="0" />
+    <Enum description="SHOT_ONE_HAND" value="1" />
+  </EggpawnSpawner_shotType>
+  <EggpawnSpawner_approachLimit description="" type="float" />
+  <EggpawnSpawner_serachDistance description="" type="float" />
+  <EggpawnSpawner_serachAngle description="" type="float" />
+  <EggpawnSpawner_moveDistance description="" type="float" />
+  <EggpawnSpawner_shotCoolDown description="" type="bool" />
+  <EggpawnSpawner_attackConst description="" type="bool" />
+  <EggpawnSpawner_attackConstAngle description="" type="float" />
+  <EggpawnSpawner_isFV description="" type="bool" />
+  <EggpawnSpawner_eventDriven description="" type="bool" />
+  <EggpawnSpawner_isGravity description="" type="bool" />
+  <EggpawnSpawner_isFallStart description="" type="bool" />
+  <EggpawnSpawner_isTreadGrass description="" type="bool" />
+  <EggpawnSpawner_updateMaterial description="" type="bool" />
+  <EggpawnSpawner_isStatic description="" type="bool" />
+  <EggpawnSpawner_behaviorType description="" type="enum">
+    <Enum description="TYPE_NORMAL" value="0" />
+    <Enum description="TYPE_INFINITE" value="1" />
+    <Enum description="TYPE_INFINITE_VIOLET" value="2" />
+  </EggpawnSpawner_behaviorType>
+  <EggpawnSpawner_toSVPathDistance description="" type="float" />
+  <EggpawnSpawnPointList description="" type="forcesObjectList" />
+  <ValkeenList description="" type="forcesObjectList" />
+  <ObjectList1 description="" type="forcesObjectList" />
+  <ObjectList2 description="" type="forcesObjectList" />
+  <ObjectList3 description="" type="forcesObjectList" />
+  <EggpawnSpawnNum description="" type="uint32" />
+  <DebugCharaChange description="" type="bool" />
+  <Extra length="256" name="RawByteLength" />
+</Template>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <flexure description="" type="float" />
+  <numWood description="" type="sint32" />
+  <sizeType description="" type="enum">
+    <Enum description="SIZETYPE_SMALL" value="0" />
+    <Enum description="SIZETYPE_LARGE" value="1" />
+  </sizeType>
+  <isBreak description="" type="bool" />
+  <isBreakEvent description="" type="bool" />
+  <breakParam_toSignTime description="" type="float" />
+  <breakParam_signTime description="" type="float" />
+  <breakParam_resetTime description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

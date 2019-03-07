@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <shape description="" type="enum">
+    <Enum description="SPHERE" value="0" />
+    <Enum description="BOX" value="1" />
+  </shape>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <color description="" type="enum">
+    <Enum description="WHITE" value="0" />
+    <Enum description="GLAY" value="1" />
+    <Enum description="BLACK" value="2" />
+    <Enum description="RED" value="3" />
+    <Enum description="GREEN" value="4" />
+    <Enum description="BLUE" value="5" />
+    <Enum description="YELLOW" value="6" />
+    <Enum description="CYAN" value="7" />
+    <Enum description="MAGENTA" value="8" />
+  </color>
+  <visible description="" type="bool" />
+  <enemy description="" type="bool" />
+  <breakable description="" type="bool" />
+  <move description="" type="enum">
+    <Enum description="NONE" value="0" />
+    <Enum description="SWING" value="1" />
+  </move>
+  <cycle description="" type="float" />
+  <distance description="" type="float" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

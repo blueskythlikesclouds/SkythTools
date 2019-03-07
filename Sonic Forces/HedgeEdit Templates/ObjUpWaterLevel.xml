@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <upSpeed description="" type="float" />
+  <maxSizeX description="" type="float" />
+  <maxSizeY description="" type="float" />
+  <maxSizeZ description="" type="float" />
+  <underSize description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <Fovy description="" type="float" />
+  <Distance description="" type="float" />
+  <VerticalOffset description="" type="float" />
+  <TargetPitch description="" type="float" />
+  <TargetYaw description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

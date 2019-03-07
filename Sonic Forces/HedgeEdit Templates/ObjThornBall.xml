@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_NORMAL" value="0" />
+    <Enum description="TYPE_MOVE" value="1" />
+    <Enum description="TYPE_ROLLING" value="2" />
+    <Enum description="TYPE_APPEAR" value="3" />
+    <Enum description="TYPE_PENDULUM" value="4" />
+    <Enum description="TYPE_TUMBLE" value="5" />
+  </type>
+  <hitEnemy description="" type="bool" />
+  <moveParam_time description="" type="float" />
+  <moveParam_distance description="" type="float" />
+  <moveParam_phase description="" type="float" />
+  <moveParam_direction description="" type="enum">
+    <Enum description="DIR_HORIZONTAL" value="0" />
+    <Enum description="DIR_VERTICAL" value="1" />
+  </moveParam_direction>
+  <rollingParam_time description="" type="float" />
+  <rollingParam_radius description="" type="float" />
+  <rollingParam_phase description="" type="float" />
+  <rollingParam_direction description="" type="enum">
+    <Enum description="DIR_HORIZONTAL" value="0" />
+    <Enum description="DIR_VERTICAL" value="1" />
+  </rollingParam_direction>
+  <appearParam_time description="" type="float" />
+  <appearParam_distance description="" type="float" />
+  <pendulumParam_time description="" type="float" />
+  <pendulumParam_radius description="" type="float" />
+  <pendulumParam_amplitude description="" type="float" />
+  <pendulumParam_stopTime description="" type="float" />
+  <pendulumParam_isConstant description="" type="bool" />
+  <pendulumParam_phase description="" type="float" />
+  <pendulumParam_effectType description="" type="enum">
+    <Enum description="EFFECTTYPE_DEFAULT" value="0" />
+    <Enum description="EFFECTTYPE_SAND" value="1" />
+    <Enum description="EFFECTTYPE_WATER" value="2" />
+    <Enum description="EFFECTTYPE_METAL" value="3" />
+  </pendulumParam_effectType>
+  <tumbleParam_pathId description="" type="uint32" />
+  <tumbleParam_speed description="" type="float" />
+  <tumbleParam_limitTime description="" type="float" />
+  <tumbleParam_effectType description="" type="enum">
+    <Enum description="EFFECTTYPE_DEFAULT" value="0" />
+    <Enum description="EFFECTTYPE_SAND" value="1" />
+    <Enum description="EFFECTTYPE_WATER" value="2" />
+    <Enum description="EFFECTTYPE_METAL" value="3" />
+  </tumbleParam_effectType>
+  <eventDriven description="" type="bool" />
+  <Extra length="92" name="RawByteLength" />
+</Template>

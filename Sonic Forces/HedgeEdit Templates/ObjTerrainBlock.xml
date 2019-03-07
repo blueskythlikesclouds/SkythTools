@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <BlockType description="" type="enum">
+    <Enum description="BLOCK_BOX" value="0" />
+    <Enum description="BLOCK_ARCH_CURVE_UP" value="1" />
+    <Enum description="BLOCK_ARCH_CURVE_DOWN" value="2" />
+    <Enum description="BLOCK_ARCH_CURVE_RIGHT" value="3" />
+    <Enum description="BLOCK_ARCH_CURVE_LEFT" value="4" />
+  </BlockType>
+  <BlockWidth description="" type="float" />
+  <BlockWidthEnd description="" type="float" />
+  <BlockHeight description="" type="float" />
+  <BlockDepth description="" type="float" />
+  <BlockDepthOffset description="" type="float" />
+  <ArchRadius description="" type="float" />
+  <ArchDegree description="" type="float" />
+  <ArchDivNum description="" type="uint32" />
+  <SlopeHeight description="" type="float" />
+  <LayerGroup description="" type="enum">
+    <Enum description="LAYER_LAND" value="0" />
+    <Enum description="LAYER_MOVELAND" value="1" />
+    <Enum description="LAYER_ONEWAY" value="2" />
+  </LayerGroup>
+  <AttrEnableParkour description="" type="bool" />
+  <AttrBreakable description="" type="bool" />
+  <AttrNotStand description="" type="bool" />
+  <WallLeft description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </WallLeft>
+  <WallRight description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </WallRight>
+  <WallFront description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </WallFront>
+  <WallBack description="" type="enum">
+    <Enum description="WALL_NONE" value="0" />
+    <Enum description="WALL_EXIST" value="1" />
+    <Enum description="WALL_COLLISION" value="2" />
+  </WallBack>
+  <WallHeight description="" type="float" />
+  <ColorType description="" type="enum">
+    <Enum description="COLOR_GREEN" value="0" />
+    <Enum description="COLOR_BROWN" value="1" />
+    <Enum description="COLOR_BLUE" value="2" />
+    <Enum description="COLOR_WHITE" value="3" />
+    <Enum description="COLOR_RED" value="4" />
+    <Enum description="COLOR_YELLOW" value="5" />
+  </ColorType>
+  <Interval description="" type="float" />
+  <Extra length="60" name="RawByteLength" />
+</Template>

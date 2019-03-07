@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <albedo description="" type="vector3" />
+  <reflectance description="" type="float" />
+  <smoothness description="" type="float" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

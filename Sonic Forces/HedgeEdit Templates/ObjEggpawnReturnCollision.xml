@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <isDebug description="" type="bool" />
+  <debugTargets description="" type="forcesObjectList" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

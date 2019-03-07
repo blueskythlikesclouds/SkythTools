@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <length description="" type="float" />
+  <slideType description="" type="enum">
+    <Enum description="TYPE_SLOPE" value="0" />
+    <Enum description="TYPE_FALL" value="1" />
+  </slideType>
+  <Extra length="8" name="RawByteLength" />
+</Template>

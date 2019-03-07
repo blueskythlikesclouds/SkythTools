@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <shotType description="" type="enum">
+    <Enum description="SHOT_BOTH_HANDS" value="0" />
+    <Enum description="SHOT_ONE_HAND" value="1" />
+  </shotType>
+  <approachLimit description="" type="float" />
+  <serachDistance description="" type="float" />
+  <serachAngle description="" type="float" />
+  <moveDistance description="" type="float" />
+  <shotCoolDown description="" type="bool" />
+  <attackConst description="" type="bool" />
+  <attackConstAngle description="" type="float" />
+  <isFV description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <isGravity description="" type="bool" />
+  <isFallStart description="" type="bool" />
+  <isTreadGrass description="" type="bool" />
+  <updateMaterial description="" type="bool" />
+  <isStatic description="" type="bool" />
+  <behaviorType description="" type="enum">
+    <Enum description="TYPE_NORMAL" value="0" />
+    <Enum description="TYPE_INFINITE" value="1" />
+    <Enum description="TYPE_INFINITE_VIOLET" value="2" />
+  </behaviorType>
+  <toSVPathDistance description="" type="float" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

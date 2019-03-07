@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sizeType description="" type="enum">
+    <Enum description="TYPE_LARGE" value="0" />
+    <Enum description="TYPE_NORMAL" value="1" />
+    <Enum description="TYPE_SMALL" value="2" />
+  </sizeType>
+  <isTrace description="" type="bool" />
+  <speed description="" type="float" />
+  <lifeTime description="" type="float" />
+  <endTime description="" type="float" />
+  <rotateMax description="" type="float" />
+  <despawnRange description="" type="float" />
+  <scalingTime description="" type="float" />
+  <dashRange description="" type="float" />
+  <chargeTime description="" type="float" />
+  <dashSpeed description="" type="float" />
+  <dashEndLength description="" type="float" />
+  <firstSpeed description="" type="float" />
+  <firstTime description="" type="float" />
+  <repeatNum description="" type="uint32" />
+  <repeatInterval description="" type="float" />
+  <Extra length="60" name="RawByteLength" />
+</Template>

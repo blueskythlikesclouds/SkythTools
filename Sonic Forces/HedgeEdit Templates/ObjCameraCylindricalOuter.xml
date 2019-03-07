@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <gravityPathID description="" type="sint32" />
+  <pitch description="" type="float" />
+  <dist description="" type="float" />
+  <offset description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

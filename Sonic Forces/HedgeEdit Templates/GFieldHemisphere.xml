@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <prio description="" type="sint8" />
+  <defaultON description="" type="bool" />
+  <fixed description="" type="bool" />
+  <radius description="" type="float" />
+  <innerRadius description="" type="float" />
+  <type description="" type="enum">
+    <Enum description="TYPE_OUTER" value="0" />
+    <Enum description="TYPE_INNER" value="1" />
+  </type>
+  <Extra length="16" name="RawByteLength" />
+</Template>

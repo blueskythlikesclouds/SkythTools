@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <Radius description="" type="float" />
+  <SlowSpeed description="" type="float" />
+  <BrakeTime description="" type="float" />
+  <SlowTime description="" type="float" />
+  <AcceleTime description="" type="float" />
+  <TurnDirection description="" type="enum">
+    <Enum description="TURN_LEFT" value="0" />
+    <Enum description="TURN_RIGHT" value="1" />
+  </TurnDirection>
+  <Speed description="" type="float" />
+  <PathID description="" type="uint32" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <layer description="" type="enum">
+    <Enum description="NONE_GROUP" value="0" />
+    <Enum description="LAND" value="1" />
+    <Enum description="RAYBLOCK" value="2" />
+    <Enum description="THROUGH" value="3" />
+    <Enum description="PLAYER_NORMAL" value="4" />
+    <Enum description="DEBRIS" value="5" />
+    <Enum description="OBJECT" value="6" />
+    <Enum description="ENEMY" value="7" />
+    <Enum description="RING" value="8" />
+    <Enum description="RING_HIT" value="9" />
+    <Enum description="ITEM" value="10" />
+    <Enum description="EVENT" value="11" />
+    <Enum description="SENSOR_PLAYER" value="12" />
+    <Enum description="SENSOR_GIMMICK" value="13" />
+    <Enum description="SENSOR_LAND" value="14" />
+    <Enum description="SENSOR_ALL" value="15" />
+    <Enum description="CHARA_ENEMY" value="16" />
+  </layer>
+  <size description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

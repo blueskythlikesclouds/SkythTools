@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <interval description="" type="vector2" />
+  <depth description="" type="float" />
+  <offTime description="" type="float" />
+  <onTime description="" type="float" />
+  <phase description="" type="float" />
+  <type description="" type="enum">
+    <Enum description="TYPE_APPEAR" value="0" />
+    <Enum description="TYPE_DISAPPEAR" value="1" />
+    <Enum description="TYPE_MOVE" value="2" />
+    <Enum description="TYPE_ONESHOT" value="3" />
+  </type>
+  <showBase description="" type="bool" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

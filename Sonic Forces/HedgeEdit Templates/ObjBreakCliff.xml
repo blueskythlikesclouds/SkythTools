@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <numCliff description="" type="sint32" />
+  <frontDir description="" type="enum">
+    <Enum description="FRONTDIR_LEFT" value="0" />
+    <Enum description="FRONTDIR_RIGHT" value="1" />
+  </frontDir>
+  <toSignTime description="" type="float" />
+  <signTime description="" type="float" />
+  <resetTime description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

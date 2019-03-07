@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <count description="" type="uint32" />
+  <modelType description="" type="enum">
+    <Enum description="DEFAULT" value="0" />
+    <Enum description="DARK_PLACE" value="1" />
+  </modelType>
+  <lodType description="" type="enum">
+    <Enum description="LOD_LOW" value="0" />
+    <Enum description="LOD_HIGH" value="1" />
+  </lodType>
+  <Extra length="8" name="RawByteLength" />
+</Template>

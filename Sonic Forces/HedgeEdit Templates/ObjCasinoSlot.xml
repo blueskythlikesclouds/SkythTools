@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <cashJackpot description="" type="sint32" />
+  <cashSonic description="" type="sint32" />
+  <cashTails description="" type="sint32" />
+  <cashBar3 description="" type="sint32" />
+  <cashBar2 description="" type="sint32" />
+  <cashBar1 description="" type="sint32" />
+  <cashRing description="" type="sint32" />
+  <cashEggman description="" type="sint32" />
+  <rateJP1 description="" type="float" />
+  <rateJP2 description="" type="float" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

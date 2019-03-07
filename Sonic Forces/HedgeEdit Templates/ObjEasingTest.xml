@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <m_ease1 description="" type="enum">
+    <Enum description="EASE_IN" value="0" />
+    <Enum description="EASE_OUT" value="1" />
+    <Enum description="EASE_INOUT" value="2" />
+  </m_ease1>
+  <m_calc1 description="" type="enum">
+    <Enum description="LINEAR" value="0" />
+    <Enum description="QUADRATIC" value="1" />
+    <Enum description="CUBIC" value="2" />
+    <Enum description="QUARTIC" value="3" />
+    <Enum description="QUINTIC" value="4" />
+    <Enum description="SIN" value="5" />
+    <Enum description="EXPONENTIAL" value="6" />
+    <Enum description="CIRCULAR" value="7" />
+    <Enum description="BACK" value="8" />
+    <Enum description="BOUNCE" value="9" />
+    <Enum description="ELASTIC" value="10" />
+  </m_calc1>
+  <m_param1 description="" type="enum">
+    <Enum description="PARAM_ONE" value="0" />
+    <Enum description="PARAM_INV_ONE" value="1" />
+    <Enum description="PARAM_HALF" value="2" />
+    <Enum description="PARAM_INV_HALF" value="3" />
+    <Enum description="PARAM_DOUBLE" value="4" />
+    <Enum description="PARAM_INV_DOUBLE" value="5" />
+  </m_param1>
+  <m_ease2 description="" type="enum">
+    <Enum description="EASE_IN" value="0" />
+    <Enum description="EASE_OUT" value="1" />
+    <Enum description="EASE_INOUT" value="2" />
+  </m_ease2>
+  <m_calc2 description="" type="enum">
+    <Enum description="LINEAR" value="0" />
+    <Enum description="QUADRATIC" value="1" />
+    <Enum description="CUBIC" value="2" />
+    <Enum description="QUARTIC" value="3" />
+    <Enum description="QUINTIC" value="4" />
+    <Enum description="SIN" value="5" />
+    <Enum description="EXPONENTIAL" value="6" />
+    <Enum description="CIRCULAR" value="7" />
+    <Enum description="BACK" value="8" />
+    <Enum description="BOUNCE" value="9" />
+    <Enum description="ELASTIC" value="10" />
+  </m_calc2>
+  <m_param2 description="" type="enum">
+    <Enum description="PARAM_ONE" value="0" />
+    <Enum description="PARAM_INV_ONE" value="1" />
+    <Enum description="PARAM_HALF" value="2" />
+    <Enum description="PARAM_INV_HALF" value="3" />
+    <Enum description="PARAM_DOUBLE" value="4" />
+    <Enum description="PARAM_INV_DOUBLE" value="5" />
+  </m_param2>
+  <m_op description="" type="enum">
+    <Enum description="OP_NONE" value="0" />
+    <Enum description="OP_ADD" value="1" />
+    <Enum description="OP_SUB" value="2" />
+    <Enum description="OP_MULTI" value="3" />
+    <Enum description="OP_NEST" value="4" />
+  </m_op>
+  <m_previewTime description="" type="float" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

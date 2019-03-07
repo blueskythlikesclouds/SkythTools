@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <colorR description="" type="float" />
+  <colorG description="" type="float" />
+  <colorB description="" type="float" />
+  <innerConeAngle description="" type="float" />
+  <outerConeAngle description="" type="float" />
+  <attenuationRadius description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

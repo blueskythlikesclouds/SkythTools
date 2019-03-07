@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathID description="" type="uint32" />
+  <BoxSky description="" type="forcesObjectReference" />
+  <BoxRoad description="" type="forcesObjectReference" />
+  <CrushPos description="" type="forcesObjectReference" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

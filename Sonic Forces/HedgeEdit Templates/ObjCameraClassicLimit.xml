@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <pathId description="" type="uint32" />
+  <limitPointA description="" type="forcesObjectReference" />
+  <limitPointB description="" type="forcesObjectReference" />
+  <fovy description="" type="float" />
+  <distance description="" type="float" />
+  <screenUpLimit description="" type="float" />
+  <screenDownLimit description="" type="float" />
+  <limitViewField description="" type="bool" />
+  <viewFieldBottom description="" type="float" />
+  <azimuth description="" type="float" />
+  <elevation description="" type="float" />
+  <targetOffset description="" type="vector3" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

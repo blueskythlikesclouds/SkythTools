@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <distance description="" type="float" />
+  <distanceAir description="" type="float" />
+  <elevationAir description="" type="float" />
+  <angleSensitive description="" type="float" />
+  <elevationOffset description="" type="float" />
+  <pathOffset description="" type="float" />
+  <targetOffsetY description="" type="float" />
+  <Extra length="36" name="RawByteLength" />
+</Template>

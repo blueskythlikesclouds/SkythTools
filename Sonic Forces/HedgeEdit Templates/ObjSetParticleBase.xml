@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <effectName description="" type="string" />
+  <scale description="" type="float" />
+  <colorR description="" type="uint8" />
+  <colorG description="" type="uint8" />
+  <colorB description="" type="uint8" />
+  <colorA description="" type="uint8" />
+  <sound_name description="" type="string" />
+  <sound_is3D description="" type="bool" />
+  <sound_volume description="" type="float" />
+  <rumble_name description="" type="string" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

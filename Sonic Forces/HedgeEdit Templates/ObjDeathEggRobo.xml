@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathID description="" type="uint32" />
+  <initialSpeed description="" type="float" />
+  <acceleration description="" type="float" />
+  <minSpeed description="" type="float" />
+  <maxSpeed description="" type="float" />
+  <bridge description="" type="forcesObjectReference" />
+  <platform description="" type="forcesObjectReference" />
+  <point description="" type="vector3" />
+  <eventEnd description="" type="forcesObjectReference" />
+  <endVelocity description="" type="vector3" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

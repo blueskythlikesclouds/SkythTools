@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <radius description="" type="float" />
+  <rotateSpeed description="" type="float" />
+  <successSpeed description="" type="float" />
+  <failSpeed description="" type="float" />
+  <launchAngle description="" type="float" />
+  <enableCamera description="" type="bool" />
+  <eyeOffset description="" type="vector3" />
+  <lookatOffset description="" type="vector3" />
+  <visibility description="" type="bool" />
+  <Event0_target description="" type="forcesObjectList" />
+  <Event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event0_eventType>
+  <Event0_timer description="" type="float" />
+  <Event1_target description="" type="forcesObjectList" />
+  <Event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event1_eventType>
+  <Event1_timer description="" type="float" />
+  <Event2_target description="" type="forcesObjectList" />
+  <Event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event2_eventType>
+  <Event2_timer description="" type="float" />
+  <Extra length="176" name="RawByteLength" />
+</Template>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <EndPoint description="" type="forcesObjectReference" />
+  <PathId description="" type="uint32" />
+  <AreaSize description="" type="float" />
+  <Speed description="" type="float" />
+  <Fovy description="" type="float" />
+  <Distance description="" type="float" />
+  <ScreenUpLimit description="" type="float" />
+  <ScreenDownLimit description="" type="float" />
+  <ScreenLimitViewField description="" type="bool" />
+  <ScreenViewFieldBottom description="" type="float" />
+  <Azimuth description="" type="float" />
+  <Elevation description="" type="float" />
+  <TargetOffset description="" type="vector3" />
+  <IsReverse description="" type="bool" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

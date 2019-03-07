@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <expType description="" type="enum">
+    <Enum description="EXP_1" value="0" />
+    <Enum description="EXP_2" value="1" />
+    <Enum description="EXP_3" value="2" />
+    <Enum description="EXP_LOOP" value="3" />
+    <Enum description="NUM_EXP_TYPE" value="4" />
+  </expType>
+  <sizeType description="" type="enum">
+    <Enum description="SIZE_1M" value="0" />
+    <Enum description="SIZE_2M" value="1" />
+    <Enum description="SIZE_3M" value="2" />
+    <Enum description="NUM_SIZE_TYPE" value="3" />
+  </sizeType>
+  <waitTime description="" type="float" />
+  <phase description="" type="float" />
+  <isDamage description="" type="bool" />
+  <isEventDriven description="" type="bool" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

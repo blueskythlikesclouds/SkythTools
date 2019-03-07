@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <startType description="" type="enum">
+    <Enum description="TYPE_IN_SEARCH_BOX" value="0" />
+    <Enum description="TYPE_EVENT_ON" value="1" />
+  </startType>
+  <moveSpeed description="" type="float" />
+  <locateList description="" type="forcesObjectList" />
+  <attackInterval description="" type="float" />
+  <searchBoxWidth description="" type="float" />
+  <searchBoxHeight description="" type="float" />
+  <searchBoxLength description="" type="float" />
+  <respawnTime description="" type="float" />
+  <isFV description="" type="bool" />
+  <Extra length="56" name="RawByteLength" />
+</Template>

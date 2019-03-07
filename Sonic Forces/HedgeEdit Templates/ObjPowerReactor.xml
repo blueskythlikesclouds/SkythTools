@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathId description="" type="uint32" />
+  <CoreOffset description="" type="vector3" />
+  <Core1_DefenseTime description="" type="float" />
+  <Core1_OmenTime description="" type="float" />
+  <Core1_WaitTime description="" type="float" />
+  <Core1_InitWaitTime description="" type="float" />
+  <Core1_BreakEventTarget description="" type="forcesObjectList" />
+  <Core1_BreakEventType description="" type="enum">
+    <Enum description="EVENT_NONE" value="0" />
+    <Enum description="EVENT_ON" value="1" />
+    <Enum description="EVENT_OFF" value="2" />
+  </Core1_BreakEventType>
+  <Core2_DefenseTime description="" type="float" />
+  <Core2_OmenTime description="" type="float" />
+  <Core2_WaitTime description="" type="float" />
+  <Core2_InitWaitTime description="" type="float" />
+  <Core2_BreakEventTarget description="" type="forcesObjectList" />
+  <Core2_BreakEventType description="" type="enum">
+    <Enum description="EVENT_NONE" value="0" />
+    <Enum description="EVENT_ON" value="1" />
+    <Enum description="EVENT_OFF" value="2" />
+  </Core2_BreakEventType>
+  <Core3_DefenseTime description="" type="float" />
+  <Core3_OmenTime description="" type="float" />
+  <Core3_WaitTime description="" type="float" />
+  <Core3_InitWaitTime description="" type="float" />
+  <Core3_BreakEventTarget description="" type="forcesObjectList" />
+  <Core3_BreakEventType description="" type="enum">
+    <Enum description="EVENT_NONE" value="0" />
+    <Enum description="EVENT_ON" value="1" />
+    <Enum description="EVENT_OFF" value="2" />
+  </Core3_BreakEventType>
+  <ExpList description="" type="forcesObjectList" />
+  <PlayePoint description="" type="forcesObjectReference" />
+  <Extra length="208" name="RawByteLength" />
+</Template>

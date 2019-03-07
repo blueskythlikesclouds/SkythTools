@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <frontDir description="" type="enum">
+    <Enum description="FRONTDIR_LEFT" value="0" />
+    <Enum description="FRONTDIR_RIGHT" value="1" />
+  </frontDir>
+  <signTime description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

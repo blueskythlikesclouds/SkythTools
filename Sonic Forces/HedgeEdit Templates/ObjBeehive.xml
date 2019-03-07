@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <radius description="" type="float" />
+  <baseNum description="" type="sint32" />
+  <fallRounds description="" type="sint32" />
+  <color description="" type="enum">
+    <Enum description="COLOR_A" value="0" />
+    <Enum description="COLOR_B" value="1" />
+    <Enum description="COLOR_C" value="2" />
+    <Enum description="COLOR_D" value="3" />
+    <Enum description="NUM_COLORS" value="4" />
+    <Enum description="COLOR_RANDOM" value="5" />
+  </color>
+  <existWall description="" type="bool" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

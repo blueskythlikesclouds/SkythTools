@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <memoText description="" type="string" />
+  <colorType description="" type="enum">
+    <Enum description="TYPE_WHITE" value="0" />
+    <Enum description="TYPE_BLACK" value="1" />
+    <Enum description="TYPE_RED" value="2" />
+    <Enum description="TYPE_GREEN" value="3" />
+    <Enum description="TYPE_BLUE" value="4" />
+    <Enum description="TYPE_YELLOW" value="5" />
+  </colorType>
+  <Extra length="24" name="RawByteLength" />
+</Template>

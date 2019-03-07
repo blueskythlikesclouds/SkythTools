@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <drive description="" type="enum">
+    <Enum description="DRIVE_RANGE" value="0" />
+    <Enum description="DRIVE_EVENT" value="1" />
+  </drive>
+  <distance description="" type="float" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

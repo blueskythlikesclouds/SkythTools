@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathid description="" type="uint32" />
+  <speed description="" type="float" />
+  <once description="" type="bool" />
+  <scene description="" type="enum">
+    <Enum description="SCENE_ALL" value="0" />
+    <Enum description="SCENE_SOUND" value="1" />
+    <Enum description="SCENE_BALLISTIC" value="2" />
+  </scene>
+  <effectLod description="" type="enum">
+    <Enum description="EFFECT_LOW" value="0" />
+    <Enum description="EFFECT_HIGH" value="1" />
+  </effectLod>
+  <effectScale description="" type="float" />
+  <targets0 description="" type="forcesObjectList" />
+  <event0 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event0>
+  <timer0 description="" type="float" />
+  <targets1 description="" type="forcesObjectList" />
+  <event1 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event1>
+  <timer1 description="" type="float" />
+  <targets2 description="" type="forcesObjectList" />
+  <event2 description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event2>
+  <timer2 description="" type="float" />
+  <gismoTargets description="" type="forcesObjectList" />
+  <Extra length="136" name="RawByteLength" />
+</Template>

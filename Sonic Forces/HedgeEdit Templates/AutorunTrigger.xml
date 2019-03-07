@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <action description="" type="enum">
+    <Enum description="ACT_START" value="0" />
+    <Enum description="ACT_FINISH" value="1" />
+  </action>
+  <move description="" type="enum">
+    <Enum description="MOVE_FREE" value="0" />
+    <Enum description="MOVE_CAPTURE_PATH" value="1" />
+  </move>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <pathID description="" type="uint32" />
+  <speed description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <forceFall description="" type="bool" />
+  <Extra length="28" name="RawByteLength" />
+</Template>

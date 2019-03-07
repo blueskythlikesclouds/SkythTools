@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <EventType description="" type="enum">
+    <Enum description="EVENT_NONE" value="0" />
+    <Enum description="EVENT_VISIBLE" value="1" />
+    <Enum description="EVENT_INVISIBLE" value="2" />
+  </EventType>
+  <RotateType description="" type="enum">
+    <Enum description="OBJ_Y_UP" value="0" />
+    <Enum description="WORLD_Y_UP" value="1" />
+  </RotateType>
+  <Extra length="2" name="RawByteLength" />
+</Template>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <rotateType description="" type="enum">
+    <Enum description="TYPE_RIGHT" value="0" />
+    <Enum description="TYPE_LEFT" value="1" />
+  </rotateType>
+  <radius description="" type="uint16" />
+  <angularVelocity description="" type="float" />
+  <areaType description="" type="enum">
+    <Enum description="AREA_FV" value="0" />
+    <Enum description="AREA_SV" value="1" />
+    <Enum description="AREA_AIR" value="2" />
+  </areaType>
+  <startType description="" type="enum">
+    <Enum description="START_WAIT" value="0" />
+    <Enum description="START_ROTATE" value="1" />
+  </startType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <eventDriven description="" type="bool" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

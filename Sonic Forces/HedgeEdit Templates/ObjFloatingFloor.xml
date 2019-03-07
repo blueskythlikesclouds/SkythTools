@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <sizeType description="" type="enum">
+    <Enum description="SIZE_3M" value="0" />
+    <Enum description="SIZE_4M" value="1" />
+    <Enum description="SIZE_5M" value="2" />
+    <Enum description="SIZE_7M" value="3" />
+    <Enum description="SIZE_10M" value="4" />
+    <Enum description="SIZE_TYPE_MAX" value="5" />
+  </sizeType>
+  <moveType description="" type="enum">
+    <Enum description="MOVE_NONE" value="0" />
+    <Enum description="MOVE_POINT" value="1" />
+  </moveType>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <eventDriven description="" type="bool" />
+  <isOneway description="" type="bool" />
+  <moveVector description="" type="vector3" />
+  <waitTime description="" type="float" />
+  <phase description="" type="float" />
+  <speed description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

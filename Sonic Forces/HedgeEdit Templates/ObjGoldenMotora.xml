@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <speed description="" type="float" />
+  <moveSpeed description="" type="float" />
+  <maxMoveDist description="" type="float" />
+  <isFV description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <locaterList description="" type="forcesObjectList" />
+  <ringType description="" type="enum">
+    <Enum description="TYPE_NORMAL" value="0" />
+    <Enum description="TYPE_SUPER" value="1" />
+    <Enum description="TYPE_RED" value="2" />
+  </ringType>
+  <ringId description="" type="sint32" />
+  <isBound description="" type="bool" />
+  <Event0_target description="" type="forcesObjectList" />
+  <Event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event0_eventType>
+  <Event0_timer description="" type="float" />
+  <Event1_target description="" type="forcesObjectList" />
+  <Event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event1_eventType>
+  <Event1_timer description="" type="float" />
+  <Event2_target description="" type="forcesObjectList" />
+  <Event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event2_eventType>
+  <Event2_timer description="" type="float" />
+  <updateMaterial description="" type="bool" />
+  <Extra length="160" name="RawByteLength" />
+</Template>

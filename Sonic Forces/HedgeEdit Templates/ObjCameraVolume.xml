@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <target description="" type="forcesObjectReference" />
+  <priority description="" type="uint32" />
+  <useHighPriority description="" type="bool" />
+  <easeTimeEnter description="" type="float" />
+  <easeTimeLeave description="" type="float" />
+  <interpolateTypeEnter description="" type="enum">
+    <Enum description="INTERPOLATE_RELATIVE" value="0" />
+    <Enum description="INTERPOLATE_ABSOLUTE" value="1" />
+    <Enum description="INTERPOLATE_ABSOLUTE_COORD" value="2" />
+  </interpolateTypeEnter>
+  <interpolateTypeLeave description="" type="enum">
+    <Enum description="INTERPOLATE_RELATIVE" value="0" />
+    <Enum description="INTERPOLATE_ABSOLUTE" value="1" />
+    <Enum description="INTERPOLATE_ABSOLUTE_COORD" value="2" />
+  </interpolateTypeLeave>
+  <state description="" type="enum">
+    <Enum description="DEFAULTSTATE_ON" value="0" />
+    <Enum description="DEFAULTSTATE_OFF" value="1" />
+  </state>
+  <action description="" type="enum">
+    <Enum description="ACTION_EACHTIME" value="0" />
+    <Enum description="ACTION_ONCE" value="1" />
+  </action>
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </shape>
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+  </basePoint>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

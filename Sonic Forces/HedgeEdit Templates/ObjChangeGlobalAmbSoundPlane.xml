@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <ambSEName description="" type="string" />
+  <fadeTime description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

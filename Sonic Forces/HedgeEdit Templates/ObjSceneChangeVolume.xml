@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <visibleS0 description="" type="bool" />
+  <visibleS1 description="" type="bool" />
+  <visibleS2 description="" type="bool" />
+  <visibleS3 description="" type="bool" />
+  <visibleS4 description="" type="bool" />
+  <visibleS5 description="" type="bool" />
+  <visibleS6 description="" type="bool" />
+  <visibleS7 description="" type="bool" />
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+  </shape>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

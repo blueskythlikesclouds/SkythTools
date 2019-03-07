@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <maxAngularSpeed description="" type="float" />
+  <accelerationTime description="" type="float" />
+  <autoDecelerationTime description="" type="float" />
+  <waterDecelerationTime description="" type="float" />
+  <speedKeepTime description="" type="float" />
+  <initPhase description="" type="float" />
+  <stopPhase description="" type="float" />
+  <radius description="" type="float" />
+  <floorCount description="" type="uint32" />
+  <floorSize description="" type="enum">
+    <Enum description="SIZE_A" value="0" />
+    <Enum description="SIZE_B" value="1" />
+    <Enum description="SIZE_C" value="2" />
+  </floorSize>
+  <isOneway description="" type="bool" />
+  <isStopPosition description="" type="bool" />
+  <Extra length="40" name="RawByteLength" />
+</Template>

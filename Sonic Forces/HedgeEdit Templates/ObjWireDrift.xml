@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector2" />
+  <pathID description="" type="uint32" />
+  <minLength description="" type="float" />
+  <speed description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <Extra length="24" name="RawByteLength" />
+</Template>

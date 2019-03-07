@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <startTime description="" type="float" />
+  <Extra length="4" name="RawByteLength" />
+</Template>

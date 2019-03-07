@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <name description="" type="string" />
+  <cycle description="" type="float" />
+  <offset description="" type="vector3" />
+  <move_type description="" type="enum">
+    <Enum description="MOVE_NONE" value="0" />
+    <Enum description="MOVE_CONSTANT" value="1" />
+    <Enum description="MOVE_ROTATE" value="2" />
+  </move_type>
+  <move_distance description="" type="float" />
+  <move_cycle description="" type="float" />
+  <move_axis description="" type="vector3" />
+  <Extra length="80" name="RawByteLength" />
+</Template>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <chainLength description="" type="float" />
+  <moveType description="" type="enum">
+    <Enum description="MOVETYPE_LEFT_TO_TOP" value="0" />
+    <Enum description="MOVETYPE_LEFT_TO_BOTTOM" value="1" />
+    <Enum description="MOVETYPE_RIGHT_TO_TOP" value="2" />
+    <Enum description="MOVETYPE_RIGHT_TO_BOTTOM" value="3" />
+    <Enum description="MOVETYPE_TOP_TO_LEFT" value="4" />
+    <Enum description="MOVETYPE_TOP_TO_RIGHT" value="5" />
+    <Enum description="MOVETYPE_BOTTOM_TO_LEFT" value="6" />
+    <Enum description="MOVETYPE_BOTTOM_TO_RIGHT" value="7" />
+  </moveType>
+  <rotateVelocity description="" type="float" />
+  <waitTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

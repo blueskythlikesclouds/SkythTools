@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <modelName description="" type="string" />
+  <srcTextureName description="" type="string" />
+  <dstTextureName description="" type="string" />
+  <shaderVariationNo description="" type="sint32" />
+  <Extra length="56" name="RawByteLength" />
+</Template>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <attackType description="" type="enum">
+    <Enum description="ATTACK_TYPE_TIME" value="0" />
+    <Enum description="ATTACK_TYPE_VOLUME" value="1" />
+    <Enum description="NUM_ATTACK_TYPE" value="2" />
+  </attackType>
+  <appearSpeed description="" type="float" />
+  <escapeSpeed description="" type="float" />
+  <playerDistance description="" type="float" />
+  <pathHeight description="" type="float" />
+  <isEventTurn description="" type="bool" />
+  <swingSpeed description="" type="float" />
+  <swingPhase description="" type="float" />
+  <laserTime description="" type="float" />
+  <attackInterval description="" type="float" />
+  <attackPhase description="" type="float" />
+  <numAttack description="" type="uint32" />
+  <pathID description="" type="uint32" />
+  <useLaserRaycast description="" type="bool" />
+  <Extra length="56" name="RawByteLength" />
+</Template>

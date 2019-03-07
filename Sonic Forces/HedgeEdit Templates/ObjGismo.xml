@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <name description="" type="string" />
+  <scale description="" type="float" />
+  <giTextureName description="" type="string" />
+  <giOcclusionTextureName description="" type="string" />
+  <Extra length="56" name="RawByteLength" />
+</Template>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <blinkTime0 description="" type="float" />
+  <blinkTime1 description="" type="float" />
+  <blinkSpan0 description="" type="float" />
+  <blinkSpan1 description="" type="float" />
+  <rings description="" type="forcesObjectList" />
+  <event0_target description="" type="forcesObjectList" />
+  <event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event0_eventType>
+  <event0_timer description="" type="float" />
+  <event1_target description="" type="forcesObjectList" />
+  <event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event1_eventType>
+  <event1_timer description="" type="float" />
+  <event2_target description="" type="forcesObjectList" />
+  <event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </event2_eventType>
+  <event2_timer description="" type="float" />
+  <Extra length="136" name="RawByteLength" />
+</Template>

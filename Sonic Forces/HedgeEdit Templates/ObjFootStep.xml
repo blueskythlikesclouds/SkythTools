@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <soundName description="" type="string" />
+  <moveType description="" type="enum">
+    <Enum description="MOVE_PATH" value="0" />
+    <Enum description="MOVE_STRAIGHT" value="1" />
+  </moveType>
+  <speed description="" type="float" />
+  <pathID description="" type="uint32" />
+  <moveVector description="" type="vector3" />
+  <enableMoveEnd description="" type="bool" />
+  <interval description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <rotZ description="" type="float" />
+  <shakeTime description="" type="float" />
+  <freq description="" type="sint32" />
+  <magnitude description="" type="float" />
+  <enableDistAttn description="" type="bool" />
+  <attanRatio description="" type="float" />
+  <shakeRange description="" type="float" />
+  <debug description="" type="bool" />
+  <Extra length="96" name="RawByteLength" />
+</Template>

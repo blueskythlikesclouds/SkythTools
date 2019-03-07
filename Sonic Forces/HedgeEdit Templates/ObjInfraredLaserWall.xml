@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <radius description="" type="float" />
+  <setOrder description="" type="enum">
+    <Enum description="LEFT_TO_RIGHT" value="0" />
+    <Enum description="RIGTH_TO_LEFT" value="1" />
+    <Enum description="CENTER_TO_SIDE" value="2" />
+  </setOrder>
+  <num description="" type="sint32" />
+  <setInterval description="" type="float" />
+  <offset description="" type="float" />
+  <speed description="" type="float" />
+  <firingPhase description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <isDrawRing description="" type="bool" />
+  <isRotate description="" type="bool" />
+  <rotatePhase description="" type="float" />
+  <rotateSpeed description="" type="float" />
+  <isGrew description="" type="bool" />
+  <randomPhase description="" type="bool" />
+  <phaseMin description="" type="float" />
+  <phaseMax description="" type="float" />
+  <Extra length="52" name="RawByteLength" />
+</Template>

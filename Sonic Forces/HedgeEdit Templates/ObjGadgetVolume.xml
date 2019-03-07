@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector3" />
+  <enable description="" type="bool" />
+  <priority description="" type="sint32" />
+  <ui_sleep description="" type="bool" />
+  <del_asteroid description="" type="bool" />
+  <del_model description="" type="bool" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

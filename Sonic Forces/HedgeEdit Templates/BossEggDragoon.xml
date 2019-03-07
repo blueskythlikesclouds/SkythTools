@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathId description="" type="uint32" />
+  <MoveLimitMobileA description="" type="forcesObjectReference" />
+  <MoveLimitMobileB description="" type="forcesObjectReference" />
+  <BreakFloor description="" type="forcesObjectList" />
+  <MobileAreaMargin description="" type="float" />
+  <MoveLimitDragoonA description="" type="forcesObjectReference" />
+  <MoveLimitDragoonB description="" type="forcesObjectReference" />
+  <StartupColliderHalfExtents description="" type="vector3" />
+  <StartupColliderOffset description="" type="vector3" />
+  <CameraPointPosition description="" type="vector3" />
+  <CameraOffsetPosition description="" type="vector3" />
+  <Extra length="128" name="RawByteLength" />
+</Template>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <placeNum description="" type="sint32" />
+  <placeType description="" type="enum">
+    <Enum description="LINE" value="0" />
+    <Enum description="CIRCLE" value="1" />
+  </placeType>
+  <circleRadius description="" type="float" />
+  <behavior description="" type="enum">
+    <Enum description="NORMAL" value="0" />
+    <Enum description="PATH" value="1" />
+  </behavior>
+  <interval description="" type="float" />
+  <angle description="" type="float" />
+  <isEventOn description="" type="bool" />
+  <normalParam_velocity description="" type="float" />
+  <normalParam_outOfControl description="" type="float" />
+  <normalParam_keepVelocityDistance description="" type="float" />
+  <pathParam_velocity description="" type="float" />
+  <pathParam_beginAngle description="" type="float" />
+  <pathParam_beginForce description="" type="float" />
+  <pathParam_targetPos description="" type="vector3" />
+  <pathParam_endAngle description="" type="float" />
+  <pathParam_endForce description="" type="float" />
+  <Event0_target description="" type="forcesObjectList" />
+  <Event0_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event0_eventType>
+  <Event0_timer description="" type="float" />
+  <Event1_target description="" type="forcesObjectList" />
+  <Event1_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event1_eventType>
+  <Event1_timer description="" type="float" />
+  <Event2_target description="" type="forcesObjectList" />
+  <Event2_eventType description="" type="enum">
+    <Enum description="EVENT_ON" value="0" />
+    <Enum description="EVENT_OFF" value="1" />
+  </Event2_eventType>
+  <Event2_timer description="" type="float" />
+  <Extra length="192" name="RawByteLength" />
+</Template>

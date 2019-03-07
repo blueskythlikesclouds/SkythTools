@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <BoxNumX description="" type="sint32" />
+  <BoxNumY description="" type="sint32" />
+  <BoxNumZ description="" type="sint32" />
+  <dropShadow description="" type="bool" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

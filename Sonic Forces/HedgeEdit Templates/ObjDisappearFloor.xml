@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathId description="" type="uint32" />
+  <setNum description="" type="uint32" />
+  <interval description="" type="float" />
+  <returnInterval description="" type="float" />
+  <startDelay description="" type="float" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

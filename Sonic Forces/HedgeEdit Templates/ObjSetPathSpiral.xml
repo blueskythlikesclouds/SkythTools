@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathUID description="" type="sint32" />
+  <type description="" type="enum">
+    <Enum description="OBJ_PATH" value="0" />
+    <Enum description="SV_PATH" value="1" />
+    <Enum description="GR_PATH" value="2" />
+  </type>
+  <rotDir description="" type="enum">
+    <Enum description="ROT_DIR_LEFT" value="0" />
+    <Enum description="ROT_DIR_RIGHT" value="1" />
+  </rotDir>
+  <inRadius description="" type="float" />
+  <outRadius description="" type="float" />
+  <angle description="" type="float" />
+  <shiftDistance description="" type="float" />
+  <inDistance description="" type="float" />
+  <outDistance description="" type="float" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

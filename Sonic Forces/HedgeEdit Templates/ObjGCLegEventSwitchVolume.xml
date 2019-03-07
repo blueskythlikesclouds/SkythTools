@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <targets description="" type="forcesObjectList" />
+  <size description="" type="vector3" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

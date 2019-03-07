@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <minImpulse description="" type="float" />
+  <maxImpulse description="" type="float" />
+  <outOfControlTime description="" type="float" />
+  <keepVelocityTime description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

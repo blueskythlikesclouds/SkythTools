@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <type description="" type="enum">
+    <Enum description="TYPE_ONESHOT" value="0" />
+    <Enum description="TYPE_CONTINUANCE" value="1" />
+  </type>
+  <shakeTime description="" type="float" />
+  <shakeRange description="" type="float" />
+  <oneTimeOnly description="" type="bool" />
+  <shakeType description="" type="enum">
+    <Enum description="SHAKE_DIRECTIONAL" value="0" />
+    <Enum description="SHAKE_RANDOM" value="1" />
+  </shakeType>
+  <magnitude description="" type="float" />
+  <freq description="" type="sint32" />
+  <zRot description="" type="float" />
+  <attnRatio description="" type="float" />
+  <enableDistAttn description="" type="bool" />
+  <shape description="" type="enum">
+    <Enum description="SHAPE_BOX" value="0" />
+    <Enum description="SHAPE_SPHERE" value="1" />
+    <Enum description="SHAPE_CYLINDER" value="2" />
+    <Enum description="SHAPE_EVENT" value="3" />
+  </shape>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

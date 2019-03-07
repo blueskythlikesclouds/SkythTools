@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <velocity description="" type="float" />
+  <searchDistance description="" type="float" />
+  <isSwitch description="" type="bool" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

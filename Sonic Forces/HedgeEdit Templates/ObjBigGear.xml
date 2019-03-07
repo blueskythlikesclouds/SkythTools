@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <sizeType description="" type="enum">
+    <Enum description="SIZE_S" value="0" />
+    <Enum description="SIZE_L" value="1" />
+  </sizeType>
+  <speed description="" type="float" />
+  <phase description="" type="float" />
+  <isDamage description="" type="bool" />
+  <isRigidbody description="" type="bool" />
+  <isReversal description="" type="bool" />
+  <isEventDriven description="" type="bool" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

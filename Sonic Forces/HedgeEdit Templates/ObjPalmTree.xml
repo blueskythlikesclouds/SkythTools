@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <m_type description="" type="enum">
+    <Enum description="TREE_A01" value="0" />
+    <Enum description="TREE_A02" value="1" />
+    <Enum description="TREE_A03" value="2" />
+    <Enum description="TREE_B01" value="3" />
+    <Enum description="TREE_B02" value="4" />
+    <Enum description="TREE_B03" value="5" />
+  </m_type>
+  <m_scale description="" type="float" />
+  <m_timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </m_timeType>
+  <m_windHorzAngle description="" type="float" />
+  <m_windHorzAngleWidth description="" type="float" />
+  <m_windHorzAngleCycle description="" type="float" />
+  <m_windVertAngle description="" type="float" />
+  <m_windVertAngleWidth description="" type="float" />
+  <m_windVertAngleCycle description="" type="float" />
+  <m_windSpeedMin description="" type="float" />
+  <m_windSpeedMax description="" type="float" />
+  <m_windSpeedCycle description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

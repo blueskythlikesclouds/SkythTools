@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <pathType description="" type="enum">
+    <Enum description="PATH_ALL" value="0" />
+    <Enum description="PATH_OBJ" value="1" />
+    <Enum description="PATH_GRIND" value="2" />
+    <Enum description="PATH_SV" value="3" />
+    <Enum description="PATH_SLIDER" value="4" />
+  </pathType>
+  <searchType description="" type="enum">
+    <Enum description="SEARCH_OVERLAP_SPHERE" value="0" />
+    <Enum description="SEARCH_OVERLAP_AABB" value="1" />
+    <Enum description="SEARCH_RAYCAST" value="2" />
+  </searchType>
+  <searchSize description="" type="float" />
+  <Extra length="8" name="RawByteLength" />
+</Template>

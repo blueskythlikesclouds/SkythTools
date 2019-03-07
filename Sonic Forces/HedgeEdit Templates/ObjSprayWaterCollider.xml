@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <colliderHalfExtents description="" type="vector3" />
+  <offset description="" type="vector3" />
+  <Extra length="32" name="RawByteLength" />
+</Template>

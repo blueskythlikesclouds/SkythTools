@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <FovY description="" type="float" />
+  <BaseSpacePathPosition description="" type="float" />
+  <SphericalPositionX description="" type="float" />
+  <SphericalPositionY description="" type="float" />
+  <SphericalPositionZ description="" type="float" />
+  <TargetUpOffset description="" type="float" />
+  <TargetFrontOffset description="" type="float" />
+  <TargetFrontOffsetMax description="" type="float" />
+  <TargetFrontOffsetSpeedScale description="" type="float" />
+  <IsBaseSpacePlayer description="" type="bool" />
+  <IsPositionBasePlayer description="" type="bool" />
+  <TargetRightOffset description="" type="float" />
+  <Extra length="48" name="RawByteLength" />
+</Template>

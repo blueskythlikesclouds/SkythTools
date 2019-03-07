@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <IsCameraView description="" type="bool" />
+  <fovy description="" type="float" />
+  <enableLimitAngle description="" type="bool" />
+  <azimuthLimitAngle description="" type="float" />
+  <gravityOffset description="" type="float" />
+  <playerOffset description="" type="vector3" />
+  <lineOffset description="" type="float" />
+  <positionMode description="" type="enum">
+    <Enum description="POS_MODE_FIX" value="0" />
+    <Enum description="POS_MODE_MAINTAIN_DISTANCE" value="1" />
+  </positionMode>
+  <distance description="" type="float" />
+  <Extra length="64" name="RawByteLength" />
+</Template>

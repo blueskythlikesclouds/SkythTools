@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <PathId description="" type="uint32" />
+  <AttackDelay description="" type="float" />
+  <MoveSpeed description="" type="float" />
+  <EscapeMoveSpeed description="" type="float" />
+  <PopSpeed description="" type="float" />
+  <PassingAddSpeed description="" type="float" />
+  <DropTime description="" type="float" />
+  <CaptureDistance description="" type="float" />
+  <CaptureDistancePassing description="" type="float" />
+  <TurnRoll description="" type="float" />
+  <PopPosition description="" type="vector3" />
+  <PathOffsetPosition description="" type="vector3" />
+  <AtkType description="" type="enum">
+    <Enum description="ATK_NORMAL" value="0" />
+    <Enum description="ATK_PASSING" value="1" />
+    <Enum description="ATK_REVERSAL" value="2" />
+  </AtkType>
+  <CapType description="" type="enum">
+    <Enum description="CAP_NORMAL" value="0" />
+    <Enum description="CAP_PASSING" value="1" />
+  </CapType>
+  <IsGravity description="" type="bool" />
+  <IsFV description="" type="bool" />
+  <IsRespawn description="" type="bool" />
+  <IsAttack description="" type="bool" />
+  <MoveTime description="" type="float" />
+  <Extra length="96" name="RawByteLength" />
+</Template>

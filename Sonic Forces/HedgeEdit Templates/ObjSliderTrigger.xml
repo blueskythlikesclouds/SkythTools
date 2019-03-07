@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <size description="" type="vector2" />
+  <action description="" type="enum">
+    <Enum description="ACT_BEGIN" value="0" />
+    <Enum description="ACT_END" value="1" />
+  </action>
+  <speed description="" type="float" />
+  <Extra length="16" name="RawByteLength" />
+</Template>

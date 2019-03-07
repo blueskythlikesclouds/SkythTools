@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <columnType description="" type="enum">
+    <Enum description="COLUMN_TYPE_SHORT" value="0" />
+    <Enum description="COLUMN_TYPE_LONG" value="1" />
+    <Enum description="NUM_COLUMN_TYPES" value="2" />
+  </columnType>
+  <Extra length="1" name="RawByteLength" />
+</Template>

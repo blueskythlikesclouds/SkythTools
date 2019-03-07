@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <fallType description="" type="enum">
+    <Enum description="TYPE_LINEAR" value="0" />
+    <Enum description="TYPE_ACCELERATE" value="1" />
+  </fallType>
+  <fallTimeType description="" type="enum">
+    <Enum description="TYPE_SET_SPEED" value="0" />
+    <Enum description="TYPE_SET_TIME" value="1" />
+  </fallTimeType>
+  <length description="" type="float" />
+  <fallTime description="" type="float" />
+  <waitTime description="" type="float" />
+  <eventDriven description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

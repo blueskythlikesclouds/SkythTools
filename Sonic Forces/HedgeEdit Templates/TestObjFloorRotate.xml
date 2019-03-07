@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <omega description="" type="float" />
+  <offset description="" type="float" />
+  <useGlobalTime description="" type="bool" />
+  <axis description="" type="enum">
+    <Enum description="AXIS_TYPE_X" value="0" />
+    <Enum description="AXIS_TYPE_Y" value="1" />
+    <Enum description="AXIS_TYPE_Z" value="2" />
+  </axis>
+  <Extra length="12" name="RawByteLength" />
+</Template>

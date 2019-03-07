@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <spinType description="" type="enum">
+    <Enum description="SPINTYPE_CLOCK" value="0" />
+    <Enum description="SPINTYPE_UNTICLOCK" value="1" />
+  </spinType>
+  <spinSpeed description="" type="float" />
+  <initialAngle description="" type="float" />
+  <laserLength description="" type="float" />
+  <timeType description="" type="enum">
+    <Enum description="TIME_LOCAL" value="0" />
+    <Enum description="TIME_GLOBAL" value="1" />
+  </timeType>
+  <isPenetration description="" type="bool" />
+  <eventDriven description="" type="bool" />
+  <Extra length="20" name="RawByteLength" />
+</Template>

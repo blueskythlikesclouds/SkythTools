@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <width description="" type="float" />
+  <height description="" type="float" />
+  <depth description="" type="float" />
+  <dimension description="" type="enum">
+    <Enum description="DIM_2D" value="0" />
+    <Enum description="DIM_3D" value="1" />
+    <Enum description="DIM_2D_BACK" value="2" />
+  </dimension>
+  <pathNo description="" type="sint32" />
+  <priority description="" type="sint32" />
+  <basePoint description="" type="enum">
+    <Enum description="BASE_CENTER" value="0" />
+    <Enum description="BASE_Z_PLANE" value="1" />
+  </basePoint>
+  <camera description="" type="forcesObjectReference" />
+  <easeTimeEnter description="" type="float" />
+  <easeTimeLeave description="" type="float" />
+  <interpolateTypeEnter description="" type="enum">
+    <Enum description="INTERPOLATE_RELATIVE" value="0" />
+    <Enum description="INTERPOLATE_ABSOLUTE" value="1" />
+  </interpolateTypeEnter>
+  <interpolateTypeLeave description="" type="enum">
+    <Enum description="INTERPOLATE_RELATIVE" value="0" />
+    <Enum description="INTERPOLATE_ABSOLUTE" value="1" />
+  </interpolateTypeLeave>
+  <active description="" type="bool" />
+  <Extra length="44" name="RawByteLength" />
+</Template>

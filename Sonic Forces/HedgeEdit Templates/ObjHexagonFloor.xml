@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <rowNum description="" type="uint32" />
+  <columnNum description="" type="uint32" />
+  <curvatureFrontParam description="" type="sint8" />
+  <curvatureBackParam description="" type="sint8" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

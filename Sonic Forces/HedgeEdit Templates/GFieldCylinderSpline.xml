@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <prio description="" type="sint8" />
+  <defaultON description="" type="bool" />
+  <fixed description="" type="bool" />
+  <radius description="" type="float" />
+  <path description="" type="uint32" />
+  <Extra length="12" name="RawByteLength" />
+</Template>

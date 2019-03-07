@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Template>
+  <phase description="" type="float" />
+  <isReverse description="" type="bool" />
+  <Extra length="8" name="RawByteLength" />
+</Template>
