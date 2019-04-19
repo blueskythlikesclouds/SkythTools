@@ -1,0 +1,1 @@
+If you are getting an error regarding a missing plugin, you can fix it by copying "qwindows.dll" file found in the "platforms" folder into "(OS root)\Qt\5.5\msvc2010\plugins\platforms" directory.
