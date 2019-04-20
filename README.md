@@ -1,91 +1,102 @@
 # SkythTools
-Most tools work with drag 'n drop.
+Almost every program here works with drag and drop.
 
 ## Common
 - PackCpk
-	- A program that allows you to extract CPK files or create them from a folder.
+	- A program that allows you to extract or create a CPK file.
 - terrain2fbx
-	- A program that allows you to convert terrain models inside a folder to FBX files.
-	- To have a full conversion, please ensure that you've included everything. You need those types of files:
+	- A program that allows you to convert terrain models inside a folder to an FBX file.
+	- To have a full conversion, please ensure that you've included everything. You need:
 		- .terrain-model
 		- .terrain-instanceinfo
 		- .material
 		- .dds
 ## Sonic Generations
 - cropGIA
-	- A program that loads uncompressed gia-###.ar files inside a folder and outputs the GI textures contained within them.
+	- A program that crops GI textures from a folder of uncompressed gia-###.ar files.
 - lightfield
-	- A program that allows you to generate light field files from stages.
+	- A program that allows you to generate light field from a stage.
 - ModelConverter
-	- A program that converts FBX/DAE files to model files.
+	- A program that converts an FBX or DAE file to a model file.
 - TransformGensStage
-	- A program that allows you to translate, rotate or scale stages.
+	- A program that allows you to translate, rotate and scale a stage.
 - FxPipelineResolutionChanger
-	- A program that allows you to change the shadowmap resolution inside the executable.
+	- A program that allows you to change the shadowmap resolution of the FxPipeline Renderer.
 - ImportLightList
-	- A maxscript that allows you to import light/light-list files.
+	- A maxscript that allows you to import light files or a light list file.
+	- Made by TwilightZoney
 - SeparateGIA
-	- A program that separates lightmaps and shadowmaps from complete GI textures.
+	- A program that separates lightmap and shadowmap texture from a complete GI map.
 - ar0pack
-	- A program that creates ar.##/arl files from folders.
+	- A program that allows you to create AR archives with its corresponding ARL file from a folder.
 - ar0unpack
-	- A program that extracts ar/ar.##/pfd files.
+	- A program that allows you to extract AR or PFD files.
 - collision2fbx
-	- A program that converts .phy.hkx files to FBX files.
+	- A program that converts a .phy.hkx file to an FBX file.
 - evsxml
-	- A program that converts .evs files to .xml and vice versa.
+	- A program that converts an EVS file to an XML, and vice versa.
 - pfdpackUnleashed
-	- A program that creates pfd/pfi files from folders to work with Sonic Unleashed.
+	- A program that creates a PFD file with its corresponding PFI file from a folder to work with Sonic Unleashed.
+- ShaderDB
+	- A shader database for SonicGLvl 0.5.7 which contains every shader from Sonic Generations and Sonic Unleashed.
+	- If you don't want the database to be reset by the editor, make it read-only.
 - slwModel2Gens
-	- A program that converts Sonic Lost World model files to Sonic Generations ones.
+	- A program that converts a Sonic Lost World model file to a Sonic Generations one.
 ## Sonic Forces
 - sonicForcesHkxConverter
-	- A script that converts .skl.hkx/.anm.hkx files to Sonic Generations ones.
+	- A script that converts a .skl.hkx or .anm.hkx file to a Sonic Generations one.
 - HedgeEdit Templates
-	- A collection of object templates to be used with HedgeEdit.
+	- A folder that contains object templates to be used with HedgeEdit.
 - ModelConverter
-	- A program that converts FBX/DAE files to model files.
+	- A program that converts an FBX or DAE file to a model file.
 - EnableMultiTangentSpace
-	- A program that enables multi tangent space in material files, possibly fixing the flickering that happens with ports.
+	- A program that enables multi tangent space option in a material file, thus possibly fixing the flickering which was caused by a stage port.
 - EnableShadow
-	- A program that enables shadow casting and shadow receiving in model files.
+	- A program that enables shadow cast and receive options in a model file.
 - ModelOptimizer
-	- A program that optimizes model files, greatly reducing their size and improving performance.
+	- A program that optimizes a model file, thus greatly decreasing its file size and improving in-game performance.
 - SFPac
-	- A script that allows you to extract .pac.### files or create them from a folder.
+	- A script that allows you to extract or create PAC files.
 - TagTools
 	- A script that allows you to manipulate HKX files.
 ## Sonic Lost World
 - collision2fbx
-	- A program that converts .phy.hkx files to FBX files.
+	- A program that converts a .phy.hkx file to an FBX file.
 - gensMaterial2Slw
-	- A program that tries to fix crashes caused by materials that were taken directly from Sonic Generations.
+	- A program that tries to fix crashes that are caused by a material that is directly taken from previous games.
 - hhdxml
-	- A program that converts .hhd files to .xml and vice versa.
+	- A program that converts an HHD file to an XML, and vice versa.
 ## Sonic '06
 - XNO Converter
-	- A program that converts various types of 3D model files to XNO files.
+	- A program that converts a 3D model file to an XNO file.
 - 06set2xml
-	- A program that converts '06 set files to Sonic Generations .set.xml files.
+	- A program that converts an '06 set file to a Sonic Generations .set.xml file.
 - xno2dae
-	- A program that converts any kind of NO or NM files to DAE files. (like XNO and XNM)
+	- A program that converts an XNO or XNM file to a DAE file. The variations of the formats are also supported. (like GNO, ZNO, INO etc.)
 ## Sonic Colors
 - PathImporter
-	- A maxscript that allows you to import .path.bin files.
+	- A maxscript that allows you to import a .path.bin file.
+	- Original script made by: arukibree
+	- Modification made by: SKmaric
 - col2fbx
-	- A program that converts _col.orc files to FBX files.
+	- A program that converts a _col.orc file to an FBX file.
 - llightConverter
-	- A program that converts _llight.orc files to Sonic Generations light/light-list files.
+	- A program that converts a _llight.orc file to a Sonic Generations light list file with its corresponding light files.
 - orc2xml
-	- A program that converts set .orc files to Sonic Generations .set.xml files.
+	- A program that converts a set .orc file to a Sonic Generations .set.xml file.
 ## Misc
 - AMBPack
-	- A program that allows you to extract .amb files or create them from a folder.
+	- A program that allows you to extract or create an AMB file.
 - BayonettaDx
-	- A program that converts BDX/SDX files from Bayonetta to ACB files and vice versa.
+	- A program that converts a BDX/SDX file to an ACB, and vice versa.
 - ConvertSpecularToAlpha
 	- A program that places the grayscale of a specular image to its alpha channel.
 - PlatinumDat
-	- A program that extracts little endian .dat files or creates them from a folder.
+	- A program that extracts or creates a little endian DAT file. (mainly for Bayonetta)
 - WemRipper
-	- A program that extracts little endian .wem files from any file.
+	- A program that extracts little endian WEM files from any file.
+# Credits
+A good amount of tools in this repository heavily make use of DarioSamo's [LibGens](https://github.com/DarioSamo/libgens-sonicglvl).  
+Although the tools were made in separate projects (independant from the LibGens solution), the specific modifications done to the library can be found in [my fork of it](https://github.com/blueskythlikesclouds/libgens-sonicglvl).
+
+Everything is made by me unless otherwise specified in the list above.
