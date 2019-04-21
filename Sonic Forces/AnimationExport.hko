@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hkoptions>
+	<hkobject class="hctConfigurationSetData">
+		<hkparam name="filterManagerVersion">65536</hkparam>
+		<hkparam name="activeConfiguration">0</hkparam>
+	</hkobject>
+	<hkobject class="hctConfigurationData">
+		<hkparam name="configurationName">Default</hkparam>
+		<hkparam name="numFilters">6</hkparam>
+	</hkobject>
+	<hkobject name="Transform Scene" class="hctFilterData">
+		<hkparam name="id">2860016997</hkparam>
+		<hkparam name="ver">66049</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Transform Scene" class="hctSceneTransformOptions">
+		<hkparam name="preset">CUSTOM</hkparam>
+		<hkparam name="applyToNodes">true</hkparam>
+		<hkparam name="applyToBuffers">true</hkparam>
+		<hkparam name="applyToFloatChannels">true</hkparam>
+		<hkparam name="applyToLights">true</hkparam>
+		<hkparam name="applyToCameras">true</hkparam>
+		<hkparam name="flipWinding">false</hkparam>
+		<hkparam name="matrix">(1.000000 0.000000 0.000000 0.000000)(0.000000 0.000000 -1.000000 0.000000)(0.000000 1.000000 0.000000 0.000000)(0.000000 0.000000 0.000000 1.000000)</hkparam>
+	</hkobject>
+	<hkobject name="Create Skeletons" class="hctFilterData">
+		<hkparam name="id">769831784</hkparam>
+		<hkparam name="ver">66056</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Skeletons" class="hctCreateSkeletonOptions">
+		<hkparam name="moveToOrigin">false</hkparam>
+		<hkparam name="automatic">true</hkparam>
+		<hkparam name="rigNodes">w1_brk_meteorite;meteo;</hkparam>
+		<hkparam name="rigFile">&#9216;</hkparam>
+		<hkparam name="selected">false</hkparam>
+		<hkparam name="skinBindings">false</hkparam>
+		<hkparam name="floatSlots"></hkparam>
+		<hkparam name="useOrderInFile">false</hkparam>
+		<hkparam name="substringMatch">false</hkparam>
+		<hkparam name="skeletonName"></hkparam>
+		<hkparam name="partitions"></hkparam>
+		<hkparam name="partitionStartBoneNames"></hkparam>
+		<hkparam name="partitionEndBoneNames"></hkparam>
+		<hkparam name="useRootBoneNameAsSkeletonName">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Animations" class="hctFilterData">
+		<hkparam name="id">769831785</hkparam>
+		<hkparam name="ver">66054</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Animations" class="hctCreateAnimationsOptions">
+		<hkparam name="moveToOriginX">true</hkparam>
+		<hkparam name="moveToOriginY">true</hkparam>
+		<hkparam name="moveToOriginZ">true</hkparam>
+		<hkparam name="animationStartNodes">This member is no longer in use.</hkparam>
+		<hkparam name="subAnimation">false</hkparam>
+		<hkparam name="subAnimationStartFrame">0</hkparam>
+		<hkparam name="subAnimationEndFrame">0</hkparam>
+		<hkparam name="selected">false</hkparam>
+		<hkparam name="manual">false</hkparam>
+		<hkparam name="rigFilename">&#9216;</hkparam>
+		<hkparam name="partialAnimationNodes"></hkparam>
+		<hkparam name="nameAnimationTracks">true</hkparam>
+		<hkparam name="previewColor">4286545791</hkparam>
+		<hkparam name="floatTracks"></hkparam>
+	</hkobject>
+	<hkobject name="Spline Compression" class="hctFilterData">
+		<hkparam name="id">1727380080</hkparam>
+		<hkparam name="ver">65794</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Spline Compression" class="hctSplineCompressionOptionsSerializable">
+		<hkparam name="trackParams" numelements="1">
+			<hkobject>
+				<hkparam name="rotationTolerance">0.000010</hkparam>
+				<hkparam name="translationTolerance">0.001000</hkparam>
+				<hkparam name="scaleTolerance">0.001000</hkparam>
+				<hkparam name="floatingTolerance">0.001000</hkparam>
+				<hkparam name="rotationDegree">3</hkparam>
+				<hkparam name="translationDegree">3</hkparam>
+				<hkparam name="scaleDegree">3</hkparam>
+				<hkparam name="floatingDegree">3</hkparam>
+				<hkparam name="rotationQuantizationType">THREECOMP40</hkparam>
+				<hkparam name="translationQuantizationType">BITS16</hkparam>
+				<hkparam name="scaleQuantizationType">BITS16</hkparam>
+				<hkparam name="floatQuantizationType">BITS16</hkparam>
+			</hkobject>
+		</hkparam>
+		<hkparam name="animationParams">
+			<hkobject>
+				<hkparam name="maxFramesPerBlock">256</hkparam>
+				<hkparam name="enableSampleSingleTracks">false</hkparam>
+			</hkobject>
+		</hkparam>
+		<hkparam name="useExpertControls">false</hkparam>
+		<hkparam name="selectedSet">0</hkparam>
+		<hkparam name="setNames">Default;</hkparam>
+		<hkparam name="boneSets">^</hkparam>
+		<hkparam name="allBoneNames"></hkparam>
+		<hkparam name="boneDepth" numelements="0"></hkparam>
+	</hkobject>
+	<hkobject name="Prune Types" class="hctFilterData">
+		<hkparam name="id">2496164476</hkparam>
+		<hkparam name="ver">66048</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Prune Types" class="hctPruneTypesOptions">
+		<hkparam name="pruneSceneData">false</hkparam>
+		<hkparam name="pruneMeshData">true</hkparam>
+		<hkparam name="pruneSkeletonData">true</hkparam>
+		<hkparam name="pruneAnimationData">false</hkparam>
+		<hkparam name="customClasses"></hkparam>
+		<hkparam name="pruneAllSceneData">true</hkparam>
+		<hkparam name="pruneEnvironmentData">true</hkparam>
+		<hkparam name="pruneResourceData">true</hkparam>
+		<hkparam name="pruneDestructionData">false</hkparam>
+		<hkparam name="pruneAnimationTracks">false</hkparam>
+		<hkparam name="pruneAnnotations">false</hkparam>
+		<hkparam name="pruneIdentityBindingIndices">false</hkparam>
+		<hkparam name="pruneQuantizedBindings">false</hkparam>
+		<hkparam name="pruneAttributes">false</hkparam>
+		<hkparam name="pruneMeshUserChannels">false</hkparam>
+		<hkparam name="pruneAttachments">true</hkparam>
+		<hkparam name="pruneSelectionSets">false</hkparam>
+		<hkparam name="selectionSets"></hkparam>
+		<hkparam name="selectionDeletionMode">HK_SELECTION_DELETE_SELECTED</hkparam>
+		<hkparam name="pruneAllAnimationData">false</hkparam>
+		<hkparam name="pruneMeshBindingData">true</hkparam>
+		<hkparam name="pruneRagdollAndMapperData">true</hkparam>
+	</hkobject>
+	<hkobject name="Write to Platform" class="hctFilterData">
+		<hkparam name="id">2876798309</hkparam>
+		<hkparam name="ver">66048</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Write to Platform" class="hctPlatformWriterOptions">
+		<hkparam name="filename">.\$(asset)_$(configuration).anm.hkx</hkparam>
+		<hkparam name="tagfile">true</hkparam>
+		<hkparam name="preset">MSVC_WIN32</hkparam>
+		<hkparam name="bytesInPointer">4</hkparam>
+		<hkparam name="littleEndian">1</hkparam>
+		<hkparam name="reusePaddingOptimized">0</hkparam>
+		<hkparam name="emptyBaseClassOptimized">1</hkparam>
+		<hkparam name="removeMetadata">false</hkparam>
+		<hkparam name="userTag">0</hkparam>
+		<hkparam name="saveEnvironmentData">false</hkparam>
+		<hkparam name="xmlFormat">false</hkparam>
+	</hkobject>
+</hkoptions>

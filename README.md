@@ -11,7 +11,12 @@ Almost every program here works with drag and drop.
 		- .terrain-instanceinfo
 		- .material
 		- .dds
+- terrain2fbx-png
+	- Modified version of terrain2fbx to search for PNG textures instead of DDS.
 ## Sonic Generations
+- AnimationExport
+	- A Havok Content Tools 2010 options file that allows you to export animations for Sonic Generations.
+	- Provided by TwilightZoney
 - cropGIA
 	- A program that crops GI textures from a folder of uncompressed gia-###.ar files.
 - lightfield
@@ -22,6 +27,9 @@ Almost every program here works with drag and drop.
 	- A program that allows you to translate, rotate and scale a stage.
 - FxPipelineResolutionChanger
 	- A program that allows you to change the shadowmap resolution of the FxPipeline Renderer.
+- PathImporter
+	- A maxscript that allows you to import a .path.xml file.
+	- Made by TGE
 - ImportLightList
 	- A maxscript that allows you to import light files or a light list file.
 	- Made by TwilightZoney
@@ -43,6 +51,9 @@ Almost every program here works with drag and drop.
 - slwModel2Gens
 	- A program that converts a Sonic Lost World model file to a Sonic Generations one.
 ## Sonic Forces
+- AnimationExport
+	- A Havok Content Tools 2012 options file that allows you to export animations for Sonic Forces and Sonic Lost World.
+	- Provided by ĐeäTh
 - sonicForcesHkxConverter
 	- A script that converts a .skl.hkx or .anm.hkx file to a Sonic Generations one.
 - HedgeEdit Templates

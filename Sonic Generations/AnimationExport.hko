@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hkoptions>
+	<hkobject class="hctConfigurationSetData">
+		<hkparam name="filterManagerVersion">65536</hkparam>
+		<hkparam name="activeConfiguration">0</hkparam>
+	</hkobject>
+	<hkobject class="hctConfigurationData">
+		<hkparam name="configurationName">Animation exporting</hkparam>
+		<hkparam name="numFilters">6</hkparam>
+	</hkobject>
+	<hkobject name="Create Skeletons" class="hctFilterData">
+		<hkparam name="id">769831784</hkparam>
+		<hkparam name="ver">66056</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Skeletons" class="hctCreateSkeletonOptions">
+		<hkparam name="moveToOrigin">false</hkparam>
+		<hkparam name="automatic">true</hkparam>
+		<hkparam name="rigNodes">chr_Sonic_HD;Help01;Help02;Reference;Hips;Spine;Spine1;Neck;Head;BrowA_C_LT;BrowA_L_LT;BrowA_R_LT;Ear_L;Ear_R;Eye_L;Eye_R;Eyelid_bones;EyeLidLow1_L;EyeLidLow1_R;EyeLidLow2_L;EyeLidLow2_R;EyeLidLow_C;EyeLidUp1_L;EyeLidUp1_R;EyeLidUp2_L;EyeLidUp2_R;EyeLidUp3_L;EyeLidUp3_R;EyeLidUp_C;Sonic_Eyelid;Model_EyeBoard;MouthReference;Jaw_LT;Lip_C_LT;Lip_L_LT;Lip_R_LT;MouthReference_L;Jaw_LT1;Lip_C_LT1;Lip_L_LT1;Lip_R_LT1;Needle_B_C;Needle1_B_C;Needle_B_L;Needle1_B_L;Needle_B_R;Needle1_B_R;Needle_U_C;Needle1_U_C;Needle_U_L;Needle1_U_L;Needle_U_R;Needle1_U_R;Nose;Shoulder_L;UpperArm_L;Elbow_L;ForeArm_L;Hand_L;Index1_L;Index2_L;Index3_L;Middle1_L;Middle2_L;Middle3_L;Pinky1_L;Pinky2_L;Pinky3_L;Ring1_L;Ring2_L;Ring3_L;Thumb1_L;Thumb2_L;Thumb3_L;Wrist_L;Shoulder_R;UpperArm_R;Elbow_R;ForeArm_R;Hand_R;Index1_R;Index2_R;Index3_R;Middle1_R;Middle2_R;Middle3_R;Pinky1_R;Pinky2_R;Pinky3_R;Ring1_R;Ring2_R;Ring3_R;Thumb1_R;Thumb2_R;Thumb3_R;Wrist_R;Wing_L;Wing_R;Tail;Tail1;Thigh_L;Calf_L;Foot_L;Toe_L;Socks_L;Knee_L;Thigh_R;Calf_R;Foot_R;Toe_R;Socks_R;Knee_R;Sonic_body;Sonic_Cloth;Sonic_Foot;Sonic_Mouth;</hkparam>
+		<hkparam name="rigFile">&#9216;</hkparam>
+		<hkparam name="selected">false</hkparam>
+		<hkparam name="skinBindings">false</hkparam>
+		<hkparam name="floatSlots"></hkparam>
+		<hkparam name="useOrderInFile">false</hkparam>
+		<hkparam name="substringMatch">false</hkparam>
+		<hkparam name="skeletonName"></hkparam>
+		<hkparam name="useRootBoneNameAsSkeletonName">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Skins" class="hctFilterData">
+		<hkparam name="id">385768003</hkparam>
+		<hkparam name="ver">65539</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Skins" class="hctCreateSkinOptions">
+		<hkparam name="simplifyBindings">true</hkparam>
+		<hkparam name="moveMeshesToSkeletonSpace">false</hkparam>
+		<hkparam name="boneLimit">-1</hkparam>
+		<hkparam name="ignoreBonesInSkin">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Animations" class="hctFilterData">
+		<hkparam name="id">769831785</hkparam>
+		<hkparam name="ver">66054</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Create Animations" class="hctCreateAnimationsOptions">
+		<hkparam name="moveToOriginX">true</hkparam>
+		<hkparam name="moveToOriginY">true</hkparam>
+		<hkparam name="moveToOriginZ">true</hkparam>
+		<hkparam name="animationStartNodes">This member is no longer in use.</hkparam>
+		<hkparam name="subAnimation">false</hkparam>
+		<hkparam name="subAnimationStartFrame">0</hkparam>
+		<hkparam name="subAnimationEndFrame">0</hkparam>
+		<hkparam name="selected">false</hkparam>
+		<hkparam name="manual">false</hkparam>
+		<hkparam name="rigFilename">&#9216;</hkparam>
+		<hkparam name="partialAnimationNodes"></hkparam>
+		<hkparam name="nameAnimationTracks">true</hkparam>
+		<hkparam name="previewColor">4286545791</hkparam>
+		<hkparam name="floatTracks"></hkparam>
+	</hkobject>
+	<hkobject name="Spline Compression" class="hctFilterData">
+		<hkparam name="id">1727380080</hkparam>
+		<hkparam name="ver">65794</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Spline Compression" class="hctSplineCompressionOptionsSerializable">
+		<hkparam name="trackParams" numelements="1">
+			<hkobject>
+				<hkparam name="rotationTolerance">0.001000</hkparam>
+				<hkparam name="translationTolerance">0.001000</hkparam>
+				<hkparam name="scaleTolerance">0.001000</hkparam>
+				<hkparam name="floatingTolerance">0.001000</hkparam>
+				<hkparam name="rotationDegree">3</hkparam>
+				<hkparam name="translationDegree">3</hkparam>
+				<hkparam name="scaleDegree">3</hkparam>
+				<hkparam name="floatingDegree">3</hkparam>
+				<hkparam name="rotationQuantizationType">THREECOMP40</hkparam>
+				<hkparam name="translationQuantizationType">BITS16</hkparam>
+				<hkparam name="scaleQuantizationType">BITS16</hkparam>
+				<hkparam name="floatQuantizationType">BITS16</hkparam>
+			</hkobject>
+		</hkparam>
+		<hkparam name="animationParams">
+			<hkobject>
+				<hkparam name="maxFramesPerBlock">256</hkparam>
+				<hkparam name="enableSampleSingleTracks">false</hkparam>
+			</hkobject>
+		</hkparam>
+		<hkparam name="useExpertControls">false</hkparam>
+		<hkparam name="selectedSet">0</hkparam>
+		<hkparam name="setNames">Default;</hkparam>
+		<hkparam name="boneSets">^</hkparam>
+		<hkparam name="allBoneNames"></hkparam>
+		<hkparam name="boneDepth" numelements="0"></hkparam>
+	</hkobject>
+	<hkobject name="Prune Types" class="hctFilterData">
+		<hkparam name="id">2496164476</hkparam>
+		<hkparam name="ver">66048</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Prune Types" class="hctPruneTypesOptions">
+		<hkparam name="pruneSceneData">true</hkparam>
+		<hkparam name="pruneMeshData">true</hkparam>
+		<hkparam name="pruneSkeletonData">true</hkparam>
+		<hkparam name="pruneAnimationData">false</hkparam>
+		<hkparam name="customClasses"></hkparam>
+		<hkparam name="pruneAllSceneData">true</hkparam>
+		<hkparam name="pruneEnvironmentData">false</hkparam>
+		<hkparam name="pruneResourceData">true</hkparam>
+		<hkparam name="pruneDestructionData">false</hkparam>
+		<hkparam name="pruneAnimationTracks">false</hkparam>
+		<hkparam name="pruneAnnotations">true</hkparam>
+		<hkparam name="pruneIdentityBindingIndices">false</hkparam>
+		<hkparam name="pruneQuantizedBindings">false</hkparam>
+		<hkparam name="pruneAttributes">false</hkparam>
+		<hkparam name="pruneMeshUserChannels">false</hkparam>
+		<hkparam name="pruneAttachments">true</hkparam>
+		<hkparam name="pruneSelectionSets">false</hkparam>
+		<hkparam name="selectionSets"></hkparam>
+		<hkparam name="selectionDeletionMode">HK_SELECTION_DELETE_SELECTED</hkparam>
+		<hkparam name="pruneAllAnimationData">false</hkparam>
+		<hkparam name="pruneMeshBindingData">true</hkparam>
+		<hkparam name="pruneRagdollAndMapperData">true</hkparam>
+	</hkobject>
+	<hkobject name="Write to Platform" class="hctFilterData">
+		<hkparam name="id">2876798309</hkparam>
+		<hkparam name="ver">65792</hkparam>
+		<hkparam name="hasOptions">true</hkparam>
+	</hkobject>
+	<hkobject name="Write to Platform" class="hctPlatformWriterOptions">
+		<hkparam name="filename">.\$(asset)_$(configuration).hkx</hkparam>
+		<hkparam name="tagfile">false</hkparam>
+		<hkparam name="preset">MSVC_WIN32</hkparam>
+		<hkparam name="bytesInPointer">4</hkparam>
+		<hkparam name="littleEndian">1</hkparam>
+		<hkparam name="reusePaddingOptimized">0</hkparam>
+		<hkparam name="emptyBaseClassOptimized">1</hkparam>
+		<hkparam name="removeMetadata">true</hkparam>
+		<hkparam name="userTag">0</hkparam>
+		<hkparam name="saveEnvironmentData">false</hkparam>
+	</hkobject>
+</hkoptions>
