@@ -16,7 +16,7 @@ Almost every program here works with drag and drop.
 ## Sonic Generations
 - AnimationExport
 	- A Havok Content Tools 2010 options file that allows you to export animations for Sonic Generations.
-	- Provided by TwilightZoney
+	- Provided by TwilightZoney.
 - cropGIA
 	- A program that crops GI textures from a folder of uncompressed gia-###.ar files.
 - lightfield
@@ -29,10 +29,10 @@ Almost every program here works with drag and drop.
 	- A program that allows you to change the shadowmap resolution of the FxPipeline Renderer.
 - PathImporter
 	- A maxscript that allows you to import a .path.xml file.
-	- Made by TGE
+	- Made by TGE.
 - ImportLightList
 	- A maxscript that allows you to import light files or a light list file.
-	- Made by TwilightZoney
+	- Made by TwilightZoney.
 - SeparateGIA
 	- A program that separates lightmap and shadowmap texture from a complete GI map.
 - ar0pack
@@ -53,9 +53,21 @@ Almost every program here works with drag and drop.
 ## Sonic Forces
 - AnimationExport
 	- A Havok Content Tools 2012 options file that allows you to export animations for Sonic Forces and Sonic Lost World.
-	- Provided by ĐeäTh
+	- Provided by ĐeäTh.
 - sonicForcesHkxConverter
 	- A script that converts a .skl.hkx or .anm.hkx file to a Sonic Generations one.
+- PathImporter
+	- A maxscript that imports .path files.
+	- Original script made by arukibree. 
+	- Modifications made by Radfordhound.
+- PathExporter
+	- A maxscript that exports .path files.
+	- Splines should be named like this:
+		- grpath001_GR
+		- svpath001_SV
+		- objpath_001
+	- Original script made by arukibree.
+	- Modifications made by Radfordhound.
 - HedgeEdit Templates
 	- A folder that contains object templates to be used with HedgeEdit.
 - ModelConverter
@@ -87,8 +99,8 @@ Almost every program here works with drag and drop.
 ## Sonic Colors
 - PathImporter
 	- A maxscript that allows you to import a .path.bin file.
-	- Original script made by: arukibree
-	- Modification made by: SKmaric
+	- Original script made by arukibree.
+	- Modifications made by SKmaric.
 - col2fbx
 	- A program that converts a _col.orc file to an FBX file.
 - llightConverter
