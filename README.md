@@ -108,6 +108,9 @@ Almost every program here works with drag and drop.
 - orc2xml
 	- A program that converts a set .orc file to a Sonic Generations .set.xml file.
 ## Misc
+- AcbFinder
+	- A program that searches for ACB and corresponding AWB files in a folder (and subfolders).
+	- Useful for games like Dragalia Lost that distribute ACB and AWB files with random file names.
 - AMBPack
 	- A program that allows you to extract or create an AMB file.
 - BayonettaDx
