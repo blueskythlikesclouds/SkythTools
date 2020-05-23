@@ -50,6 +50,9 @@ Almost every program here works with drag and drop.
 	- If you don't want the database to be reset by the editor, make it read-only.
 - slwModel2Gens
 	- A program that converts a Sonic Lost World model file to a Sonic Generations one.
+- TuringFixer
+	- A program that regenerates triangle strip data for every model in a stage to fix the crash on Nvidia Turing GPUs. (RTX/GTX 1660 Series)
+	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
 ## Sonic Forces
 - AnimationExport
 	- A Havok Content Tools 2012 options file that allows you to export animations for Sonic Forces and Sonic Lost World.
