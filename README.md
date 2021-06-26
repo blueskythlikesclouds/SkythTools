@@ -53,6 +53,23 @@ Almost every program here works with drag and drop.
 - TuringFixer
 	- A program that regenerates triangle strip data for every model in a stage to fix the crash on Nvidia Turing GPUs. (RTX/GTX 1660 Series)
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
+- PostRender
+	- This is a replacement for Post Render mode in GIAtlasConverter. Conversion is significantly faster.
+	- Place your lightmap/shadowmap files in a folder which is named after your stage but with -HedgeGI suffix, for example:
+		- ghz200 (contains stage assets)
+		- ghz200-HedgeGI (contains lightmap/shadowmap files)
+	- You can afterwards drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (in this example's case, ghz200)
+- TerrainBlockGenerator
+	- A program that generates terrain block data for a stage to significantly improve the performance.
+	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
+- UV2Mapper
+	- A program that generates lightmap UV2 channel for every terrain model in a stage. This can be used for baking with [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI).
+	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
+	- You can also use this program on individual .terrain-model files. If you want to process all of them at once, make a .bat file. For example:
+		- `for %%f in (*.terrain-model) do UV2Mapper "%%f"`
+- YeetVertexColor
+	- A program that removes vertex colors from every terrain model in a stage.
+	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
 ## Sonic Forces
 - AnimationExport
 	- A Havok Content Tools 2012 options file that allows you to export animations for Sonic Forces and Sonic Lost World.
