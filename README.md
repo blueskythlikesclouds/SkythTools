@@ -21,6 +21,7 @@ Almost every program here works with drag and drop.
 	- A program that crops GI textures from a folder of uncompressed gia-###.ar files.
 - lightfield
 	- A program that allows you to generate light field from a stage.
+	- **Note:** This tool is obsolete. Please use [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) instead.
 - ModelConverter
 	- A program that converts an FBX or DAE file to a model file.
 - TransformGensStage
@@ -59,17 +60,21 @@ Almost every program here works with drag and drop.
 		- ghz200 (contains stage assets)
 		- ghz200-HedgeGI (contains lightmap/shadowmap files)
 	- You can afterwards drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (in this example's case, ghz200)
+	- **Note:** [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) is already capable of packing lightmaps into stages. However, you can still use this tool for packing of GI textures generated through other software.
 - TerrainBlockGenerator
 	- A program that generates terrain block data for a stage to significantly improve the performance.
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
+	- **Note:** Latest [Hedgehog Converter](https://github.com/DarioSamo/libgens-sonicglvl) is already capable of generating terrain block data. However, you can still use this tool for stages generated with SonicGLvl 0.5.7 or old versions of Hedgehog Converter.
 - UV2Mapper
 	- A program that generates lightmap UV2 channel for every terrain model in a stage. This can be used for baking with [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI).
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
 	- You can also use this program on individual .terrain-model files. If you want to process all of them at once, make a .bat file. For example:
 		- `for %%f in (*.terrain-model) do UV2Mapper "%%f"`
+	- **Note**: This tool is available as an option in [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) under Tools -> Generate Lightmap UVs.
 - YeetVertexColor
 	- A program that removes vertex colors from every terrain model in a stage.
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
+	- **Note:** This tool is available as an option in [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) under Tools -> Remove Vertex Colors.
 ## Sonic Forces
 - AnimationExport
 	- A Havok Content Tools 2012 options file that allows you to export animations for Sonic Forces and Sonic Lost World.
