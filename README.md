@@ -17,6 +17,8 @@ Almost every program here works with drag and drop.
 - AnimationExport
 	- A Havok Content Tools 2010 options file that allows you to export animations for Sonic Generations.
 	- Provided by TwilightZoney.
+- BscPack
+	- A program that allows you to unpack or create LZ4 compressed archives for the [PBR Shaders](https://gamebanana.com/mods/288953) mod. It also supports unpacking archives from the original game, but archives created using this program are only going to work with the mod enabled.
 - cropGIA
 	- A program that crops GI textures from a folder of uncompressed gia-###.ar files.
 - lightfield
