@@ -116,6 +116,8 @@ Almost every program here works with drag and drop.
 	- A program that tries to fix crashes that are caused by a material that is directly taken from previous games.
 - hhdxml
 	- A program that converts an HHD file to an XML, and vice versa.
+- Shadow Model Converter
+	- A program that converts a FBX file to a shadow model file. Refer to README.md located in the folder for details.
 ## Sonic '06
 - XNO Converter
 	- A program that converts a 3D model file to an XNO file.
