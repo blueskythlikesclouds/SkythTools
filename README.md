@@ -109,6 +109,11 @@ Almost every program here works with drag and drop.
 	- A script that allows you to extract or create PAC files.
 - TagTools
 	- A script that allows you to manipulate HKX files.
+## Sonic Frontiers
+- NeedleTextureStreamingPackage
+	- This program restores the \*.dds files by loading their respective texture data from the \*.ntsp archives located within the texture_streaming directory.
+		- Ensure that needle_texture_streaming_path.txt contains the path to the texture_streaming directory in your game data (e.g. ./SonicFrontiers/image/x64/raw/texture_streaming/).
+		- To use this program, simply drag and drop a standalone \*.dds file or folder containing \*.dds files into it.
 ## Sonic Lost World
 - collision2fbx
 	- A program that converts a .phy.hkx file to an FBX file.
