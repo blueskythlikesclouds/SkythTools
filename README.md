@@ -21,9 +21,6 @@ Almost every program here works with drag and drop.
 	- A program that allows you to unpack or create LZ4 compressed archives for the [PBR Shaders](https://gamebanana.com/mods/288953) mod. It also supports unpacking archives from the original game, but archives created using this program are only going to work with the mod enabled.
 - cropGIA
 	- A program that crops GI textures from a folder of uncompressed gia-###.ar files.
-- lightfield
-	- A program that allows you to generate light field from a stage.
-	- **Note:** This tool is obsolete. Please use [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) instead.
 - TransformGensStage
 	- A program that allows you to translate, rotate and scale a stage.
 - FxPipelineResolutionChanger
