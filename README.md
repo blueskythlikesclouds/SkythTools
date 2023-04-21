@@ -24,8 +24,6 @@ Almost every program here works with drag and drop.
 - lightfield
 	- A program that allows you to generate light field from a stage.
 	- **Note:** This tool is obsolete. Please use [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) instead.
-- ModelConverter
-	- A program that converts an FBX or DAE file to a model file.
 - TransformGensStage
 	- A program that allows you to translate, rotate and scale a stage.
 - FxPipelineResolutionChanger
@@ -97,8 +95,6 @@ Almost every program here works with drag and drop.
 	- Modifications made by Radfordhound.
 - HedgeEdit Templates
 	- A folder that contains object templates to be used with HedgeEdit.
-- ModelConverter
-	- A program that converts an FBX or DAE file to a model file.
 - EnableMultiTangentSpace
 	- A program that enables multi tangent space option in a material file, thus possibly fixing the flickering which was caused by a stage port.
 - EnableShadow
