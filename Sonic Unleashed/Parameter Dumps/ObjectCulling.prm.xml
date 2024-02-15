@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectCulling.prm.xml>
+  <VisibilityCulling>
+    <Category>
+      <Basic>
+        <Param>
+          <g_ExecCulling>true</g_ExecCulling>
+          <g_IsDebugMode>false</g_IsDebugMode>
+          <g_IsFixedView>false</g_IsFixedView>
+          <g_FrustumFarDistance>1000</g_FrustumFarDistance>
+          <g_Range>10</g_Range>
+          <g_RadiusLimit1>160</g_RadiusLimit1>
+          <g_RadiusLimit2>40</g_RadiusLimit2>
+          <g_SetMargin>3</g_SetMargin>
+        </Param>
+      </Basic>
+    </Category>
+  </VisibilityCulling>
+</ObjectCulling.prm.xml>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sound.prm.xml>
+  <BGM>
+    <Category>
+      <Common>
+        <Param>
+          <g_SoundBGMParam.PauseFadeInTime>0.5</g_SoundBGMParam.PauseFadeInTime>
+          <g_SoundBGMParam.PauseBgmVolume>0.18</g_SoundBGMParam.PauseBgmVolume>
+          <g_SoundBGMParam.PauseFadeOutTime>0.5</g_SoundBGMParam.PauseFadeOutTime>
+          <g_SoundBGMParam.StageClearBGMStart>6.00004</g_SoundBGMParam.StageClearBGMStart>
+        </Param>
+      </Common>
+      <Sonic>
+        <Param>
+          <g_SoundBGMParam.BoostIncreaseTime>0.1</g_SoundBGMParam.BoostIncreaseTime>
+          <g_SoundBGMParam.BoostDecreaseTime>0.5</g_SoundBGMParam.BoostDecreaseTime>
+          <g_SoundBGMParam.BoostContinuanceTime>3.5</g_SoundBGMParam.BoostContinuanceTime>
+          <g_SoundBGMParam.IsContinueBoostAisac>true</g_SoundBGMParam.IsContinueBoostAisac>
+        </Param>
+      </Sonic>
+      <Evil>
+        <Param>
+          <g_SoundBGMParam.NormalIntervalTime>0</g_SoundBGMParam.NormalIntervalTime>
+          <g_SoundBGMParam.NormalStartVolume>0.3</g_SoundBGMParam.NormalStartVolume>
+          <g_SoundBGMParam.NormalStartFadeInTime>15</g_SoundBGMParam.NormalStartFadeInTime>
+          <g_SoundBGMParam.NormalFadeOutTime>1</g_SoundBGMParam.NormalFadeOutTime>
+          <g_SoundBGMParam.ChangeToBattleTiming>0</g_SoundBGMParam.ChangeToBattleTiming>
+          <g_SoundBGMParam.BattleStartVolume>1</g_SoundBGMParam.BattleStartVolume>
+          <g_SoundBGMParam.BattleFadeInTime>0</g_SoundBGMParam.BattleFadeInTime>
+          <g_SoundBGMParam.BattleFadeOutTime>4</g_SoundBGMParam.BattleFadeOutTime>
+          <g_SoundBGMParam.ChangeToNormalTiming>6</g_SoundBGMParam.ChangeToNormalTiming>
+          <g_SoundBGMParam.NormalFadeInTime>25.0001</g_SoundBGMParam.NormalFadeInTime>
+          <g_SoundBGMParam.NormalStartVolumeOnRestart>0.6</g_SoundBGMParam.NormalStartVolumeOnRestart>
+          <g_SoundBGMParam.NormalStartFadeInTimeOnRestart>10</g_SoundBGMParam.NormalStartFadeInTimeOnRestart>
+        </Param>
+      </Evil>
+      <Town>
+        <Param>
+          <g_SoundBGMParam.TownStartVolume>0.3</g_SoundBGMParam.TownStartVolume>
+          <g_SoundBGMParam.TownFadeInTime>15</g_SoundBGMParam.TownFadeInTime>
+        </Param>
+      </Town>
+    </Category>
+  </BGM>
+</Sound.prm.xml>

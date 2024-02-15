@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Replay.prm.xml>
+  <カメラ設定>
+    <Category>
+      <フリーカメラ>
+        <Param>
+          <MoveSpeed>10</MoveSpeed>
+          <RotateSpeed>1.5</RotateSpeed>
+          <VerticalOffset>0</VerticalOffset>
+        </Param>
+      </フリーカメラ>
+      <プレイヤー追従カメラ>
+        <Param>
+          <RotateSpeed>1.5</RotateSpeed>
+          <ZoomSpeed>10</ZoomSpeed>
+        </Param>
+      </プレイヤー追従カメラ>
+    </Category>
+  </カメラ設定>
+</Replay.prm.xml>

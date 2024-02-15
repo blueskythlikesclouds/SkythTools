@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StageEffect.prm.xml>
+  <Parameter>
+    <Category>
+      <BaseRange>
+        <Param>
+          <BaseRange>0</BaseRange>
+        </Param>
+      </BaseRange>
+    </Category>
+  </Parameter>
+</StageEffect.prm.xml>

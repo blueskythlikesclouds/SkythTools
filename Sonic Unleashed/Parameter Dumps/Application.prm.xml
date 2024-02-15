@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application.prm.xml>
+  <Develop>
+    <Category>
+      <Sound>
+        <Param>
+          <ms_IsEnableBGM>true</ms_IsEnableBGM>
+          <ms_IsEnablePlayerOldSE>true</ms_IsEnablePlayerOldSE>
+        </Param>
+      </Sound>
+      <Debug>
+        <Param>
+          <ms_IsRenderDebugDraw>true</ms_IsRenderDebugDraw>
+          <ms_IsRenderDebugPositionDraw>true</ms_IsRenderDebugPositionDraw>
+          <ms_IsRenderDebugDrawText>true</ms_IsRenderDebugDrawText>
+          <ms_IsDebugExtraStage>false</ms_IsDebugExtraStage>
+          <ms_IsEnableScreenshot>false</ms_IsEnableScreenshot>
+          <ms_IsRenderHangPathDebugDraw>false</ms_IsRenderHangPathDebugDraw>
+        </Param>
+      </Debug>
+      <HUD>
+        <Param>
+          <ms_IsRenderHud>true</ms_IsRenderHud>
+          <ms_IsRenderGameMainHud>true</ms_IsRenderGameMainHud>
+          <ms_IsRenderHudPause>true</ms_IsRenderHudPause>
+        </Param>
+      </HUD>
+      <UpdateForRender>
+        <Param>
+          <ms_IsUpdateForRender>true</ms_IsUpdateForRender>
+          <ms_UpdateIntervalForRender_LightField>30</ms_UpdateIntervalForRender_LightField>
+          <ms_UpdateIntervalForRender_LocalLight>30</ms_UpdateIntervalForRender_LocalLight>
+        </Param>
+      </UpdateForRender>
+      <DeltaTime>
+        <Param>
+          <DeltaTimeMode />
+        </Param>
+      </DeltaTime>
+      <Vibration>
+        <Param>
+          <ms_IsEnableVibration>true</ms_IsEnableVibration>
+        </Param>
+      </Vibration>
+      <Render>
+        <Param>
+          <ms_IsRenderTerrainOnly>false</ms_IsRenderTerrainOnly>
+        </Param>
+      </Render>
+    </Category>
+  </Develop>
+</Application.prm.xml>

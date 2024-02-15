@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chip.prm.xml>
+  <Object>
+    <Category>
+      <Town>
+        <Param>
+          <MotionType>0</MotionType>
+        </Param>
+      </Town>
+    </Category>
+  </Object>
+  <Fur>
+    <Category>
+      <Fur>
+        <Param>
+          <ShellCountMax>12</ShellCountMax>
+          <FurVolumeTextureDepth>8</FurVolumeTextureDepth>
+          <ShellCountMin>6</ShellCountMin>
+          <LOD_DistNear>5</LOD_DistNear>
+          <LOD_DistFar>20</LOD_DistFar>
+          <FurLength>0.4</FurLength>
+          <FurTile>10</FurTile>
+          <FurBend>1</FurBend>
+          <FurBendPow>0.5</FurBendPow>
+          <FurMovScale>0</FurMovScale>
+          <FurMovSpeed>0</FurMovSpeed>
+          <LightAmb>1</LightAmb>
+          <LightDiff>1</LightDiff>
+          <LightSpecPowH>0.4</LightSpecPowH>
+          <LightSpecPowW>0.9</LightSpecPowW>
+          <FurColorWeight>0.5</FurColorWeight>
+          <FurShadowWeight>0.2</FurShadowWeight>
+          <FalloffBias>0</FalloffBias>
+          <FalloffScale>0.5</FalloffScale>
+          <FalloffSharpness>3</FalloffSharpness>
+          <FalloffBlend>0</FalloffBlend>
+          <CameraDistMax>20</CameraDistMax>
+          <LengthRatioWhenCameraDistMax>1</LengthRatioWhenCameraDistMax>
+          <TileRatioWhenCameraDistMax>1</TileRatioWhenCameraDistMax>
+        </Param>
+      </Fur>
+    </Category>
+  </Fur>
+</Chip.prm.xml>

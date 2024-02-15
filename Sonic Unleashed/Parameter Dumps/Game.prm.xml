@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Game.prm.xml>
+  <Player>
+    <Category>
+      <Basic>
+        <Param>
+          <s_FirstLife>5</s_FirstLife>
+        </Param>
+      </Basic>
+    </Category>
+  </Player>
+  <Achivement>
+    <Category>
+      <SumTotal>
+        <Param>
+          <s_ArchiveComboSumTotal>10000</s_ArchiveComboSumTotal>
+          <s_ArchiveRingSumTotal>5000</s_ArchiveRingSumTotal>
+          <s_ArchiveDefeatEnemySumTotal>1000</s_ArchiveDefeatEnemySumTotal>
+        </Param>
+      </SumTotal>
+    </Category>
+  </Achivement>
+</Game.prm.xml>

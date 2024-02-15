@@ -1,7 +1,9 @@
 # SkythTools
+
 Almost every program here works with drag and drop.
 
 ## Common
+
 - PackCpk
 	- A program that allows you to extract or create a CPK file.
 - terrain2fbx
@@ -13,7 +15,9 @@ Almost every program here works with drag and drop.
 		- .dds
 - terrain2fbx-png
 	- Modified version of terrain2fbx to search for PNG textures instead of DDS.
+
 ## Sonic Generations
+
 - AnimationExport
 	- A Havok Content Tools 2010 options file that allows you to export animations for Sonic Generations.
 	- Provided by TwilightZoney.
@@ -62,6 +66,8 @@ Almost every program here works with drag and drop.
 	- A program that generates terrain block data for a stage to significantly improve the performance.
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
 	- **Note:** Latest [Hedgehog Converter](https://github.com/DarioSamo/libgens-sonicglvl) is already capable of generating terrain block data. However, you can still use this tool for stages generated with SonicGLvl 0.5.7 or old versions of Hedgehog Converter.
+- Unleashed2Generations
+	- A program that converts .model, .terrain-model and .material files from Sonic Unleashed to Sonic Generations format.
 - UV2Mapper
 	- A program that generates lightmap UV2 channel for every terrain model in a stage. This can be used for baking with [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI).
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
@@ -72,7 +78,14 @@ Almost every program here works with drag and drop.
 	- A program that removes vertex colors from every terrain model in a stage.
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
 	- **Note:** This tool is available as an option in [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI) under Tools -> Remove Vertex Colors.
+
+## Sonic Unleashed
+
+- Parameter Dumps
+	- A folder containing every .prm.xml file dumped from Sonic Unleashed memory while in Windmill Isle Act 1.
+
 ## Sonic Forces
+
 - AnimationExport
 	- A Havok Content Tools 2012 options file that allows you to export animations for Sonic Forces and Sonic Lost World.
 	- Provided by ĐeäTh.
@@ -102,12 +115,16 @@ Almost every program here works with drag and drop.
 	- A script that allows you to extract or create PAC files.
 - TagTools
 	- A script that allows you to manipulate HKX files.
+
 ## Sonic Frontiers
+
 - NeedleTextureStreamingPackage
 	- This program restores the \*.dds files by loading their respective texture data from the \*.ntsp archives located within the texture_streaming directory.
 		- Ensure that needle_texture_streaming_path.txt contains the path to the texture_streaming directory in your game data (e.g. ./SonicFrontiers/image/x64/raw/texture_streaming/).
 		- To use this program, simply drag and drop a standalone \*.dds file or folder containing \*.dds files into it.
+
 ## Sonic Lost World
+
 - collision2fbx
 	- A program that converts a .phy.hkx file to an FBX file.
 - gensMaterial2Slw
@@ -116,14 +133,18 @@ Almost every program here works with drag and drop.
 	- A program that converts an HHD file to an XML, and vice versa.
 - Shadow Model Converter
 	- A program that converts a FBX file to a shadow model file. Refer to README.md located in the folder for details.
+
 ## Sonic '06
+
 - XNO Converter
 	- A program that converts a 3D model file to an XNO file.
 - 06set2xml
 	- A program that converts an '06 set file to a Sonic Generations .set.xml file.
 - xno2dae
 	- A program that converts an XNO or XNM file to a DAE file. The variations of the formats are also supported. (like GNO, ZNO, INO etc.)
+
 ## Sonic Colors
+
 - PathImporter
 	- A maxscript that allows you to import a .path.bin file.
 	- Original script made by arukibree.
@@ -134,7 +155,9 @@ Almost every program here works with drag and drop.
 	- A program that converts a _llight.orc file to a Sonic Generations light list file with its corresponding light files.
 - orc2xml
 	- A program that converts a set .orc file to a Sonic Generations .set.xml file.
+
 ## Misc
+
 - AcbFinder
 	- A program that searches for ACB and corresponding AWB files in a folder (and subfolders).
 	- Useful for games like Dragalia Lost that distribute ACB and AWB files with random file names.
@@ -148,8 +171,10 @@ Almost every program here works with drag and drop.
 	- A program that extracts or creates a little endian DAT file. (mainly for Bayonetta)
 - WemRipper
 	- A program that extracts little endian WEM files from any file.
-# Credits
+
+## Credits
+
 A good amount of tools in this repository heavily make use of DarioSamo's [LibGens](https://github.com/DarioSamo/libgens-sonicglvl).  
-Although the tools were made in separate projects (independant from the LibGens solution), the specific modifications done to the library can be found in [my fork of it](https://github.com/blueskythlikesclouds/libgens-sonicglvl).
+Although the tools were made in separate projects (independent from the LibGens solution), the specific modifications done to the library can be found in [my fork of it](https://github.com/blueskythlikesclouds/libgens-sonicglvl).
 
 Everything is made by me unless otherwise specified in the list above.

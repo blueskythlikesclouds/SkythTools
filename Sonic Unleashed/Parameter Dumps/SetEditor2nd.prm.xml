@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SetEditor2nd.prm.xml>
+  <設定>
+    <Category>
+      <フォーカス設定>
+        <Param>
+          <SphereRadius>4</SphereRadius>
+          <IsFocusLine>false</IsFocusLine>
+          <IsFocusLine>5</IsFocusLine>
+        </Param>
+      </フォーカス設定>
+    </Category>
+  </設定>
+</SetEditor2nd.prm.xml>
