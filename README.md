@@ -174,7 +174,6 @@ Almost every program here works with drag and drop.
 
 ## Credits
 
-A good amount of tools in this repository heavily make use of DarioSamo's [LibGens](https://github.com/DarioSamo/libgens-sonicglvl).  
-Although the tools were made in separate projects (independent from the LibGens solution), the specific modifications done to the library can be found in [my fork of it](https://github.com/blueskythlikesclouds/libgens-sonicglvl).
+A good amount of tools in this repository heavily make use of DarioSamo's [LibGens](https://github.com/DarioSamo/libgens-sonicglvl).
 
 Everything is made by me unless otherwise specified in the list above.
