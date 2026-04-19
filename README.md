@@ -68,6 +68,11 @@ Almost every program here works with drag and drop.
 	- **Note:** Latest [Hedgehog Converter](https://github.com/DarioSamo/libgens-sonicglvl) is already capable of generating terrain block data. However, you can still use this tool for stages generated with SonicGLvl 0.5.7 or old versions of Hedgehog Converter.
 - Unleashed2Generations
 	- A program that converts .model, .terrain-model and .material files from Sonic Unleashed to Sonic Generations format.
+- Unleashed2GenerationsHKX
+	- A program that converts .hkx from Sonic Unleashed into Sonic Generations.
+	- If you want to process multiple HKXs at once, make a .bat file. For example:
+		- `for %%f in (*.hkx) do Unleashed2GenerationsHKX "%%f" %%f`
+	- Made by EM.
 - UV2Mapper
 	- A program that generates lightmap UV2 channel for every terrain model in a stage. This can be used for baking with [HedgeGI](https://github.com/blueskythlikesclouds/HedgeGI).
 	- Drag and drop the Packed stage folder that contains the .ar.00/.pfd files. (eg. disk/bb/Packed/ghz200)
